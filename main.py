@@ -7,6 +7,7 @@ from os import listdir
 from os.path import isfile, join
 import math
 import random
+from haversine import haversine, Unit
 
 start_city_coords = [ 20.91925, 44.0130251] #Kragujevac
 end_city_coords = [19.8451756, 45.2551338] #Novi Sad
@@ -36,11 +37,16 @@ def order_nodes(node1, node2):
     return (node1, node2)
 
 def get_distance(node1, node2):
-    return math.sqrt((node1[0] - node2[0])**2 + (node1[1] - node2[1])**2)
+    return haversine(node1, node2, unit=Unit.KILOMETERS)
+    #return math.sqrt((node1[0] - node2[0])**2 + (node1[1] - node2[1])**2)
 
-def add_to_conneced(node1, node2):
-    node1 = tuple([round(float(x), 2) for x in node1])
-    node2 = tuple([round(float(x), 2) for x in node2])
+def add_to_connected(node1, node2, maxspeed = 50):
+    try:
+        maxspeed = float(maxspeed)
+    except:
+        maxspeed = 50
+    node1 = tuple([round(float(x), 3) for x in node1])
+    node2 = tuple([round(float(x), 3) for x in node2])
     if(node1 == node2):
         return
     distance = get_distance(node1, node2)
@@ -55,10 +61,10 @@ def add_to_conneced(node1, node2):
         if node2 not in neighbours:
             neighbours[node2] = []
 
-        neighbours[node1].append(node2)
-        neighbours[node2].append(node1)        
+        neighbours[node1].append((node2,maxspeed))
+        neighbours[node2].append((node1,maxspeed))        
 
-path = './serbia/serbia/'
+path = './serbia/serbia_maxspeed/'
 def read_data_from_geojson(filename):
     files = [f for f in listdir(path) if isfile(join(path, f))]
     
@@ -70,7 +76,10 @@ def read_data_from_geojson(filename):
                 previous_node = None
                 for node in street['geometry']['coordinates']:
                     if previous_node:
-                        add_to_conneced(node, previous_node)
+                        maxspeed = 50
+                        if 'maxspeed' in street['feature']:
+                            maxspeed = street['feature']['maxspeed']
+                        add_to_connected(node, previous_node, maxspeed)
                     previous_node = node
 
 def read_country_borders(filename):
@@ -79,7 +88,6 @@ def read_country_borders(filename):
         countries = data["features"]
         for country in countries:
             for border_part in country["geometry"]["coordinates"]:
-                print(f"Granica: {len(border_part)} ")
                 previous_point = border_part[-1]
 
                 #draw lower resolution border for performance
@@ -91,14 +99,15 @@ def read_country_borders(filename):
                         previous_point = point
 
 class Node:
-    def __init__(self, coords, parent):
+    def __init__(self, coords, parent, maxspeed = 1):
         self.coords = coords
         self.parent = parent
+        self.maxspeed = maxspeed
 
         if parent == None:
             self.source_distance = 0
         else:
-            self.source_distance = parent.source_distance + get_distance(coords, parent.coords)
+            self.source_distance = parent.source_distance + get_distance(coords, parent.coords) / maxspeed
 
     def distance_to_target(self, target):
         return get_distance(self.coords, target)
@@ -109,24 +118,36 @@ checked_candidates = []
 def way_to_start(node):
     path = []
     while node:
-        path.append(node.coords)
+        path.append([node.coords, node.maxspeed])
         node = node.parent
     
     return path
 
-def a_star(start, end):
+def a_star(start, end, shortest):
     n = Node(start, None)
     candidates = [n]
 
     while len(candidates) > 0:
         current_node = candidates.pop(0)
 
+        count_130 = 0
+        for can in candidates:
+            if can.maxspeed == 130:
+                count_130 += 1
+                break
+                
+        if count_130 == 0:
+            wsw = 1
+
+        if current_node.coords[0] == 20.15:
+            smt = 4
+
         if current_node.coords in checked_candidates:
             continue
 
         checked_candidates.append(current_node.coords)
 
-        new_candidates = (Node(x, current_node) for x in neighbours[current_node.coords])
+        new_candidates = (Node(x[0], current_node, x[1]) for x in neighbours[current_node.coords])
 
         for new_candidate in new_candidates:
             if new_candidate.coords == end:
@@ -134,9 +155,26 @@ def a_star(start, end):
             
             candidates.append(new_candidate)
         
-        candidates.sort(key=lambda x: x.source_distance + x.distance_to_target(end), reverse=False)
+        if(shortest):
+            candidates.sort(key=lambda x: x.source_distance + x.distance_to_target(end), reverse=False)
+        else:
+            candidates.sort(key=lambda x: road_potential_speed(x), reverse=False)
 
     return None
+
+def road_potential_speed(x):
+    heuristic = x.source_distance + x.distance_to_target(end) / x.maxspeed
+    return heuristic
+
+def find_closest(node):
+    min_distance = -1
+    closest_node = None
+    for n in neighbours:
+        if min_distance == -1 or get_distance(n, node) < min_distance:
+            min_distance = get_distance(n, node)
+            closest_node = n
+    
+    return closest_node
 
 if __name__ == "__main__":
     read_data_from_geojson("export.geojson")
@@ -144,25 +182,32 @@ if __name__ == "__main__":
     read_country_borders("serbia_borders.geojson")
 
     #start, end = random.sample(list(neighbours.keys()), 2)
-    start = (19.83, 45.3) #Novi Sad
-    end = (21.38, 43.94) #Kragujevac
+    #start = (19.82, 45.25) #Novi Sad
+    start = (19.9442, 45.3386) #Subotica
+    #end = (21.38, 43.94) #Kragujevac
+    end = (21.6, 43.2) #Somewhere
 
+    start, end = find_closest(start), find_closest(end)
+    print(start)
+    print(end)
+    #end = (19.93, 43.98) #Cacak
+    
     for connection in connected:
         draw_line(connection[0], connection[1])
     
-    path = a_star(start, end)
+    shortest_path = a_star(start, end, shortest=False)
 
-    if path:
+    if shortest_path:
         print('There is a path')
 
-        for i in range(len(path) - 1):
-            draw_line(path[i], path[i + 1], color='red')
+        for i in range(len(shortest_path) - 1):
+            if shortest_path[i][1] > 50:
+                draw_line(shortest_path[i][0], shortest_path[i + 1][0], color='green')
+            else:
+                draw_line(shortest_path[i][0], shortest_path[i + 1][0], color='red')
         
-        draw_point(path[0])
-        draw_point(path[-1])
+        draw_point(shortest_path[0][0])
+        draw_point(shortest_path[-1][0])
 
-    #for city in cities:
-    #    draw_point(city.coords)
-    
     plt.axis('equal')
     plt.show()
