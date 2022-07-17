@@ -1,0 +1,4733 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-05-31T20:20:56Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/59735022",
+        "capital": "4",
+        "ele": "72",
+        "is_in:continent": "Europe",
+        "is_in:country": "Serbia",
+        "is_in:country_code": "RS",
+        "name": "Нови Сад",
+        "name:af": "Novi Sad",
+        "name:ar": "نوفي ساد",
+        "name:ast": "Novi Sad",
+        "name:ba": "Нови-Сад",
+        "name:be": "Нові-Сад",
+        "name:bg": "Нови Сад",
+        "name:br": "Novi Sad",
+        "name:bs": "Novi Sad",
+        "name:ca": "Novi Sad",
+        "name:ce": "Нови-Сад",
+        "name:cs": "Novi Sad",
+        "name:cu": "Новъ Садъ",
+        "name:da": "Novi Sad",
+        "name:de": "Novi Sad",
+        "name:el": "Νόβι Σαντ",
+        "name:en": "Novi Sad",
+        "name:eo": "Novi Sad",
+        "name:es": "Novi Sad",
+        "name:et": "Novi Sad",
+        "name:eu": "Novi Sad",
+        "name:fa": "نووی ساد",
+        "name:fi": "Novi Sad",
+        "name:fr": "Novi Sad",
+        "name:ga": "Novi Sad",
+        "name:gl": "Novi Sad",
+        "name:he": "נובי סאד",
+        "name:hr": "Novi Sad",
+        "name:hu": "Újvidék",
+        "name:hy": "Նովի Սադ",
+        "name:id": "Novi Sad",
+        "name:ie": "Novi Sad",
+        "name:io": "Novi Sad",
+        "name:it": "Novi Sad",
+        "name:ja": "ノヴィ・サド",
+        "name:jv": "Novi Sad",
+        "name:ka": "ნოვი-სადი",
+        "name:ko": "노비사드",
+        "name:ku": "Novî Sad",
+        "name:la": "Neoplanta",
+        "name:lt": "Novi Sadas",
+        "name:lv": "Novisada",
+        "name:mr": "नोव्ही साद",
+        "name:ms": "Novi Sad",
+        "name:na": "Novi Sad",
+        "name:nb": "Novi Sad",
+        "name:nl": "Novi Sad",
+        "name:nn": "Novi Sad",
+        "name:oc": "Novi Sad",
+        "name:os": "Нови-Сад",
+        "name:pl": "Nowy Sad",
+        "name:ps": "نووي ساد",
+        "name:pt": "Novi Sad",
+        "name:ro": "Novi Sad",
+        "name:ru": "Нови-Сад",
+        "name:sc": "Novi Sad",
+        "name:sk": "Nový Sad",
+        "name:sl": "Novi Sad",
+        "name:sq": "Novi Sad",
+        "name:sr": "Нови Сад",
+        "name:sr-Latn": "Novi Sad",
+        "name:st": "Novi Sad",
+        "name:sv": "Novi Sad",
+        "name:sw": "Novi Sad",
+        "name:th": "นอวีซาด",
+        "name:tr": "Novi Sad",
+        "name:tt": "Нови-Сад",
+        "name:uk": "Новий Сад",
+        "name:ur": "نووی ساد",
+        "name:vi": "Novi Sad",
+        "name:vo": "Novi Sad",
+        "name:zh": "诺维萨德",
+        "name:zh-Hans": "诺维萨德",
+        "name:zh-Hant": "諾維薩德",
+        "old_name": "Neoplanta",
+        "old_name:de": "Neusatz",
+        "place": "city",
+        "population": "250439",
+        "population:date": "2011",
+        "postal_code": "21000",
+        "wikidata": "Q55630",
+        "wikipedia": "sr:Нови Сад"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8451756,
+          45.2551338
+        ]
+      },
+      "id": "node/59735022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/59735024",
+        "name": "Петроварадин",
+        "name:de": "Peterwardein",
+        "name:en": "Petrovaradin",
+        "name:hr": "Petrovaradin",
+        "name:hu": "Pétervárad",
+        "name:la": "Cusum",
+        "name:ru": "Петроварадин",
+        "name:sr": "Петроварадин",
+        "name:sr-Latn": "Petrovaradin",
+        "place": "town",
+        "population": "14810",
+        "wikidata": "Q19429",
+        "wikipedia": "sr:Петроварадин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8768737,
+          45.2490082
+        ]
+      },
+      "id": "node/59735024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60349665",
+        "int_name": "Indjija",
+        "name": "Инђија",
+        "name:en": "Indjija",
+        "name:hu": "Ingyia",
+        "name:ru": "Инджия",
+        "name:sr": "Инђија",
+        "name:sr-Latn": "Inđija",
+        "place": "town",
+        "population": "26025",
+        "population:date": "2011",
+        "postal_code": "22320",
+        "wikidata": "Q309341",
+        "wikipedia": "sr:Инђија"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0807338,
+          45.0478559
+        ]
+      },
+      "id": "node/60349665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60352987",
+        "name": "Бечеј",
+        "name:de": "Altbetsche",
+        "name:en": "Becej",
+        "name:hu": "Óbecse",
+        "name:sr": "Бечеј",
+        "name:sr-Latn": "Bečej",
+        "place": "town",
+        "population": "23895",
+        "wikidata": "Q477142",
+        "wikipedia": "sr:Бечеј"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0490085,
+          45.6153745
+        ]
+      },
+      "id": "node/60352987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60571493",
+        "admin_level": "2",
+        "capital": "yes",
+        "ele": "131",
+        "int_name": "Beograd",
+        "name": "Београд",
+        "name:ace": "Belgrade",
+        "name:af": "Belgrado",
+        "name:am": "በልግራድ",
+        "name:an": "Belgrado",
+        "name:ar": "بلغراد",
+        "name:ast": "Belgráu",
+        "name:az": "Belqrad",
+        "name:bat-smg": "Belgrads",
+        "name:be": "Бялград",
+        "name:be-tarask": "Бялград",
+        "name:bg": "Белград",
+        "name:bn": "বেলগ্রেড",
+        "name:bo": "བེལ་གེ་རེ་ཌི།",
+        "name:br": "Beograd",
+        "name:bs": "Beograd",
+        "name:ca": "Belgrad",
+        "name:ckb": "بێلگراد",
+        "name:cs": "Bělehrad",
+        "name:cu": "Бѣлъ Градъ",
+        "name:cv": "Белград",
+        "name:cy": "Beograd",
+        "name:da": "Beograd",
+        "name:de": "Belgrad",
+        "name:dsb": "Běłogrod",
+        "name:el": "Βελιγράδι",
+        "name:en": "Belgrade",
+        "name:eo": "Beogrado",
+        "name:es": "Belgrado",
+        "name:et": "Belgrad",
+        "name:ext": "Belgradu",
+        "name:fa": "بلگراد",
+        "name:fi": "Belgrad",
+        "name:fo": "Beograd",
+        "name:fr": "Belgrade",
+        "name:frp": "Bèlgrade",
+        "name:fy": "Belgrado",
+        "name:ga": "Béalgrád",
+        "name:gd": "Belgrade",
+        "name:gl": "Belgrado",
+        "name:gv": "Belgraaid",
+        "name:he": "בלגרד",
+        "name:hi": "बॅलग्रेड",
+        "name:hif": "Belgrade",
+        "name:hr": "Beograd",
+        "name:hsb": "Běłohród",
+        "name:ht": "Bèlgrad",
+        "name:hu": "Belgrád",
+        "name:hy": "Բելգրադ",
+        "name:id": "Beograd",
+        "name:ie": "Beograd",
+        "name:io": "Belgrade",
+        "name:is": "Belgrad",
+        "name:it": "Belgrado",
+        "name:ja": "ベオグラード",
+        "name:jbo": "be'ograd",
+        "name:jv": "Beograd",
+        "name:ka": "ბელგრადი",
+        "name:kk": "Белград",
+        "name:kn": "ಬೆಲ್ಗ್ರಾದ್",
+        "name:ko": "베오그라드",
+        "name:ku": "Belgrad",
+        "name:kv": "Белград",
+        "name:la": "Belogradum",
+        "name:lad": "Belogrado",
+        "name:lb": "Belgrad",
+        "name:li": "Belgrado",
+        "name:lij": "Belgraddo",
+        "name:lt": "Belgradas",
+        "name:lv": "Belgrada",
+        "name:mi": "Belgrade",
+        "name:mk": "Белград",
+        "name:ml": "ബെൽഗ്രേഡ്",
+        "name:mn": "Белград",
+        "name:mr": "बेलग्रेड",
+        "name:ms": "Belgrade",
+        "name:mt": "Belgrad",
+        "name:nan": "Belgrade",
+        "name:nl": "Belgrado",
+        "name:nn": "Beograd",
+        "name:no": "Beograd",
+        "name:nov": "Beograd",
+        "name:oc": "Belgrad",
+        "name:os": "Белград",
+        "name:pap": "Belgrado",
+        "name:pl": "Belgrad",
+        "name:pnb": "بلغراد",
+        "name:pt": "Belgrado",
+        "name:qu": "Beograd",
+        "name:ro": "Belgrad",
+        "name:roa-rup": "Biligrad",
+        "name:ru": "Белград",
+        "name:sah": "Белград",
+        "name:sc": "Belgrado",
+        "name:scn": "Belgradu",
+        "name:sco": "Belgrade",
+        "name:sh": "Beograd",
+        "name:sk": "Belehrad",
+        "name:sl": "Beograd",
+        "name:sm": "Belgrade",
+        "name:so": "Belgaraad",
+        "name:sr": "Београд",
+        "name:sr-Latn": "Beograd",
+        "name:sv": "Belgrad",
+        "name:ta": "பெல்கிறேட்",
+        "name:tg": "Белград",
+        "name:th": "เบลเกรด",
+        "name:tl": "Belgrade",
+        "name:tr": "Belgrad",
+        "name:tt": "Белград",
+        "name:ty": "Beograd",
+        "name:udm": "Белград",
+        "name:ug": "بېلگراد",
+        "name:uk": "Белград",
+        "name:ur": "بلغراد",
+        "name:vec": "Belgrado",
+        "name:vi": "Beograd",
+        "name:vo": "Beograd",
+        "name:war": "Belgrade",
+        "name:wuu": "贝尔格莱德",
+        "name:yi": "בעלגראד",
+        "name:yo": "Belgrade",
+        "name:yue": "貝爾格萊德",
+        "name:zh": "贝尔格莱德市/貝爾格勒市/貝爾格萊德",
+        "name:zh-Hans": "贝尔格莱德",
+        "name:zh-Hant": "貝爾格勒市/貝爾格萊德",
+        "name:zh-Hant-HK": "貝爾格萊德",
+        "name:zh-Hant-TW": "貝爾格勒市",
+        "old_name:de": "Griechisch Weißenburg",
+        "old_name:el": "Σιγγιδουνον",
+        "old_name:hr": "Biograd na Dunavu",
+        "old_name:hu": "Nándorfehérvár",
+        "old_name:la": "Singidunum",
+        "place": "city",
+        "population": "1166763",
+        "postal_code": "11000",
+        "wikidata": "Q3711",
+        "wikipedia": "sr:Београд"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4568974,
+          44.8178131
+        ]
+      },
+      "id": "node/60571493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60580248",
+        "is_in": "Serbia",
+        "name": "Србобран",
+        "name:de": "Thomasberg",
+        "name:en": "Srbobran",
+        "name:hu": "Szenttamás",
+        "name:ru": "Србобран",
+        "name:sr": "Србобран",
+        "name:sr-Latn": "Srbobran",
+        "place": "town",
+        "population": "12009",
+        "wikidata": "Q259612",
+        "wikipedia": "sr:Србобран"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7911219,
+          45.5484758
+        ]
+      },
+      "id": "node/60580248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60583019",
+        "name": "Рума",
+        "name:en": "Ruma",
+        "name:hu": "Ruma",
+        "name:ru": "Рума",
+        "name:sr": "Рума",
+        "name:sr-Latn": "Ruma",
+        "place": "town",
+        "population": "30076",
+        "population:date": "2011",
+        "wikidata": "Q144973",
+        "wikipedia": "sr:Рума"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8187834,
+          45.0078322
+        ]
+      },
+      "id": "node/60583019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60583051",
+        "name": "Ириг",
+        "name:en": "Irig",
+        "name:hu": "Ürög",
+        "name:sr": "Ириг",
+        "name:sr-Latn": "Irig",
+        "place": "town",
+        "population": "4415",
+        "wikidata": "Q856450",
+        "wikipedia": "sr:Ириг"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8600051,
+          45.100691
+        ]
+      },
+      "id": "node/60583051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/61721018",
+        "name": "Обреновац",
+        "name:de": "Obrenowatz",
+        "name:en": "Obrenovac",
+        "name:lt": "Obrenovacas",
+        "name:pl": "Obrenovac",
+        "name:ru": "Обреновац",
+        "name:sr": "Обреновац",
+        "name:sr-Latn": "Obrenovac",
+        "name:zh": "奧布雷諾瓦茨",
+        "place": "town",
+        "population": "25429",
+        "wikidata": "Q714650",
+        "wikipedia": "sr:Обреновац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2014318,
+          44.654833
+        ]
+      },
+      "id": "node/61721018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/61721547",
+        "is_in:continent": "Europe",
+        "is_in:country": "Serbia",
+        "is_in:country_code": "RS",
+        "name": "Зрењанин",
+        "name:ar": "زرنجانین",
+        "name:be": "Зрэнянін",
+        "name:bg": "Зренянин",
+        "name:bs": "Zrenjanin",
+        "name:ca": "Zrenjanin",
+        "name:cs": "Zrenjanin",
+        "name:da": "Zrenjanin",
+        "name:de": "Großbetschkerek",
+        "name:el": "Ζρένιανιν",
+        "name:en": "Zrenjanin",
+        "name:eo": "Zrenjanin",
+        "name:es": "Zrenjanin",
+        "name:et": "Zrenjanin",
+        "name:fa": "زرنجانین",
+        "name:fr": "Zrenjanin",
+        "name:he": "זרניאנין",
+        "name:hr": "Zrenjanin",
+        "name:hu": "Nagybecskerek",
+        "name:id": "Zrenjanin",
+        "name:ie": "Zrenjanin",
+        "name:it": "Zrenjanin",
+        "name:ja": "ズレニャニン",
+        "name:jv": "Zrenjanin",
+        "name:ka": "ზრენიანინი",
+        "name:ko": "즈레냐닌",
+        "name:lt": "Zrenianinas",
+        "name:lv": "Zreņanina",
+        "name:mn": "Зренянин",
+        "name:ms": "Zrenjanin",
+        "name:nb": "Zrenjanin",
+        "name:nl": "Zrenjanin",
+        "name:nn": "Zrenjanin",
+        "name:os": "Зренянин",
+        "name:pl": "Zrenjanin",
+        "name:pt": "Zrenjanin",
+        "name:ro": "Becicherecu Mare",
+        "name:ru": "Зренянин",
+        "name:sk": "Zrenjanin",
+        "name:sl": "Zrenjanin",
+        "name:sq": "Zrenjanin",
+        "name:sr": "Зрењанин",
+        "name:sr-Latn": "Zrenjanin",
+        "name:sv": "Zrenjanin",
+        "name:tr": "Zrenjanin",
+        "name:tt": "Зренянин",
+        "name:uk": "Зренянин",
+        "name:ur": "زرینیانین",
+        "name:vi": "Zrenjanin",
+        "name:zh": "兹雷尼亚宁",
+        "place": "city",
+        "population": "79773",
+        "population:date": "2011",
+        "wikidata": "Q201125",
+        "wikipedia": "sr:Зрењанин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3907614,
+          45.3802683
+        ]
+      },
+      "id": "node/61721547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/100890898",
+        "name": "Ниш",
+        "name:ar": "نيش",
+        "name:bg": "Ниш",
+        "name:da": "Niš",
+        "name:de": "Niš",
+        "name:el": "Νις",
+        "name:en": "Niš",
+        "name:es": "Niš",
+        "name:et": "Niš",
+        "name:fr": "Niš",
+        "name:he": "ניש",
+        "name:hr": "Niš",
+        "name:it": "Niš",
+        "name:la": "Naissus",
+        "name:lt": "Nišas",
+        "name:lv": "Niša",
+        "name:nl": "Niš",
+        "name:pl": "Nisz",
+        "name:pt": "Nish",
+        "name:ro": "Niș",
+        "name:ru": "Ниш",
+        "name:sl": "Niš",
+        "name:sq": "Nishi",
+        "name:sr": "Ниш",
+        "name:sr-Latn": "Niš",
+        "name:tr": "Niş",
+        "name:zh-Hans": "尼什",
+        "name:zh-Hant": "尼什",
+        "old_name:de": "Nisch",
+        "old_name:it": "Nissa",
+        "place": "city",
+        "population": "183164",
+        "wikidata": "Q129259",
+        "wikipedia": "sr:Ниш"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8959232,
+          43.3211301
+        ]
+      },
+      "id": "node/100890898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/185538499",
+        "addr:postcode": "16000",
+        "name": "Лесковац",
+        "name:ar": "ليسكوفاتس",
+        "name:de": "Leskovac",
+        "name:el": "Λέσκοβατς",
+        "name:en": "Leskovac",
+        "name:es": "Leskovac",
+        "name:et": "Leskovac",
+        "name:fr": "Leskovac",
+        "name:lt": "Leskovacas",
+        "name:ru": "Лесковац",
+        "name:sr": "Лесковац",
+        "name:sr-Latn": "Leskovac",
+        "place": "city",
+        "population": "78030",
+        "wikidata": "Q192606",
+        "wikipedia": "sr:Лесковац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9464271,
+          42.9951304
+        ]
+      },
+      "id": "node/185538499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/185549608",
+        "addr:postcode": "17501",
+        "geonameid": "784227",
+        "gnadmin": "YU",
+        "gnfeature": "P",
+        "gnfeaturec": "PPL",
+        "name": "Врање",
+        "name:bg": "Враня",
+        "name:de": "Vranje",
+        "name:el": "Βράνιε",
+        "name:en": "Vranje",
+        "name:gr": "Βαρανεια",
+        "name:hr": "Vranje",
+        "name:ru": "Вране",
+        "name:sr": "Врање",
+        "name:sr-Latn": "Vranje",
+        "name:tr": "İvranya",
+        "old_name:de": "Wragl",
+        "place": "city",
+        "population": "55138",
+        "wikidata": "Q211645",
+        "wikipedia": "sr:Врање"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8976673,
+          42.5558337
+        ]
+      },
+      "id": "node/185549608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249463599",
+        "name": "Бачки Петровац",
+        "name:en": "Backi Petrovac",
+        "name:hu": "Petrőc",
+        "name:sk": "Báčsky Petrovec",
+        "name:sr": "Бачки Петровац",
+        "name:sr-Latn": "Bački Petrovac",
+        "place": "town",
+        "population": "6727",
+        "wikidata": "Q248251",
+        "wikipedia": "sr:Бачки Петровац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5914331,
+          45.3600646
+        ]
+      },
+      "id": "node/249463599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249474977",
+        "name": "Жабаљ",
+        "name:en": "Žabalj",
+        "name:hu": "Zsablya",
+        "name:sr": "Жабаљ",
+        "name:sr-Latn": "Žabalj",
+        "old_name:de": "Josefdorf",
+        "place": "town",
+        "population": "9107",
+        "wikidata": "Q176217",
+        "wikipedia": "sr:Жабаљ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0637917,
+          45.3728199
+        ]
+      },
+      "id": "node/249474977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249475093",
+        "name": "Бачки Јарак",
+        "name:en": "Backi Jarak",
+        "name:hu": "Tiszaistvánfalva",
+        "name:sr": "Бачки Јарак",
+        "name:sr-Latn": "Bački Jarak",
+        "place": "town",
+        "population": "5687",
+        "wikidata": "Q430415",
+        "wikipedia": "sr:Бачки Јарак"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8753145,
+          45.3711877
+        ]
+      },
+      "id": "node/249475093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249478464",
+        "name": "Нови Бечеј",
+        "name:de": "Neu-Betsche",
+        "name:en": "Novi Becej",
+        "name:hu": "Törökbecse",
+        "name:pl": "Novi Beczej",
+        "name:ru": "Нови-Бечей",
+        "name:sr": "Нови Бечеј",
+        "name:sr-Latn": "Novi Bečej",
+        "name:zh": "新貝切伊",
+        "place": "town",
+        "population": "13133",
+        "wikidata": "Q138474",
+        "wikipedia": "sr:Нови Бечеј"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1343581,
+          45.5952571
+        ]
+      },
+      "id": "node/249478464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/250045632",
+        "name": "Футог",
+        "name:en": "Futog",
+        "name:hu": "Futak",
+        "name:sr": "Футог",
+        "name:sr-Latn": "Futog",
+        "place": "town",
+        "population": "18641",
+        "wikidata": "Q368374",
+        "wikipedia": "sr:Футог"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7064376,
+          45.2373534
+        ]
+      },
+      "id": "node/250045632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253736569",
+        "alt_name:en": "Panchevo",
+        "name": "Панчево",
+        "name:ar": "بانتشيفو",
+        "name:da": "Pančevo",
+        "name:de": "Pantschowa",
+        "name:en": "Pančevo",
+        "name:es": "Pančevo",
+        "name:et": "Pančevo",
+        "name:fr": "Pančevo",
+        "name:hu": "Pancsova",
+        "name:lt": "Pančevas",
+        "name:ro": "Panciova",
+        "name:ru": "Панчево",
+        "name:sr": "Панчево",
+        "name:sr-Latn": "Pančevo",
+        "place": "city",
+        "population": "76203",
+        "population:date": "2011",
+        "wikidata": "Q205432",
+        "wikipedia": "sr:Панчево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6399643,
+          44.8705686
+        ]
+      },
+      "id": "node/253736569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254036931",
+        "name": "Шабац",
+        "name:ar": "شاباتس",
+        "name:de": "Schabatz",
+        "name:en": "Šabac",
+        "name:es": "Šabac",
+        "name:et": "Šabac",
+        "name:fr": "Šabac",
+        "name:hr": "Šabac",
+        "name:hu": "Szabács",
+        "name:ru": "Шабац",
+        "name:sl": "Šabac",
+        "name:sr": "Шабац",
+        "name:sr-Latn": "Šabac",
+        "old_name:de": "Schabatz;Sabatsch",
+        "place": "city",
+        "population": "53919",
+        "wikidata": "Q204472",
+        "wikipedia": "sr:Шабац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6953972,
+          44.7571535
+        ]
+      },
+      "id": "node/254036931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254036974",
+        "name": "Сремска Митровица",
+        "name:el": "Σρέμσκα Μιτρόβιτσα",
+        "name:en": "Sremska Mitrovica",
+        "name:hr": "Srijemska Mitrovica",
+        "name:hu": "Szávaszentdemeter",
+        "name:la": "Sirmium",
+        "name:lt": "Sremska Mitrovica",
+        "name:pl": "Sremska Mitrovica",
+        "name:ru": "Сремска-Митровица",
+        "name:sr": "Сремска Митровица",
+        "name:sr-Latn": "Sremska Mitrovica",
+        "old_name:de": "Syrmisch-Mitrowitz",
+        "place": "city",
+        "population": "37751",
+        "wikidata": "Q242733",
+        "wikipedia": "sr:Сремска Митровица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6124132,
+          44.9701654
+        ]
+      },
+      "id": "node/254036974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254036981",
+        "addr:postcode": "15300",
+        "name": "Лозница",
+        "name:de": "Loznica",
+        "name:en": "Loznica",
+        "name:ru": "Лозница",
+        "name:sr": "Лозница",
+        "name:sr-Latn": "Loznica",
+        "place": "city",
+        "population": "19863",
+        "wikidata": "Q648489",
+        "wikipedia": "sr:Лозница"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2240026,
+          44.5309355
+        ]
+      },
+      "id": "node/254036981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254037025",
+        "is_in": "Serbia",
+        "is_in:continent": "Europe",
+        "is_in:country": "Serbia",
+        "is_in:country_code": "RS",
+        "name": "Чачак",
+        "name:ar": "تشاتشاك",
+        "name:de": "Čačak",
+        "name:el": "Τσάτσακ",
+        "name:en": "Čačak",
+        "name:es": "Čačak",
+        "name:et": "Čačak",
+        "name:fr": "Čačak",
+        "name:ru": "Чачак",
+        "name:sl": "Čačak",
+        "name:sr": "Чачак",
+        "name:sr-Latn": "Čačak",
+        "old_name": "Градац",
+        "old_name:de": "Zazach",
+        "place": "city",
+        "population": "73217",
+        "postal_code": "32000",
+        "wikidata": "Q208038",
+        "wikipedia": "sr:Чачак"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3491624,
+          43.8914332
+        ]
+      },
+      "id": "node/254037025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254037064",
+        "name": "Пожега",
+        "name:en": "Požega",
+        "name:hr": "Požega",
+        "name:ru": "Пожега",
+        "name:sl": "Požega",
+        "name:sr": "Пожега",
+        "name:sr-Latn": "Požega",
+        "place": "town",
+        "population": "13206",
+        "wikidata": "Q1013322",
+        "wikipedia": "sr:Пожега"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0356635,
+          43.8459979
+        ]
+      },
+      "id": "node/254037064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254037149",
+        "name": "Севојно",
+        "name:en": "Sevojno",
+        "name:sr": "Севојно",
+        "name:sr-Latn": "Sevojno",
+        "place": "town",
+        "population": "7101",
+        "wikidata": "Q1200027",
+        "wikipedia": "sr:Севојно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8976765,
+          43.8455418
+        ]
+      },
+      "id": "node/254037149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281664933",
+        "name": "Зајечар",
+        "name:bg": "Зайчар",
+        "name:de": "Zaječar",
+        "name:en": "Zaječar",
+        "name:ro": "Zăiceari",
+        "name:ru": "Заечар",
+        "name:sr": "Зајечар",
+        "name:sr-Latn": "Zaječar",
+        "old_name:de": "Zatitscher",
+        "place": "city",
+        "population": "43860",
+        "wikidata": "Q144495",
+        "wikipedia": "sr:Зајечар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2785536,
+          43.9030925
+        ]
+      },
+      "id": "node/281664933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291980402",
+        "name": "Палић",
+        "name:de": "Palitsch",
+        "name:en": "Palić",
+        "name:hu": "Palics",
+        "name:sr": "Палић",
+        "name:sr-Latn": "Palić",
+        "place": "town",
+        "population": "7771",
+        "wikidata": "Q746407",
+        "wikipedia": "sr:Палић"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7634537,
+          46.1022848
+        ]
+      },
+      "id": "node/291980402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291980717",
+        "is_in": "Vojvodina;Serbia",
+        "name": "Кањижа",
+        "name:de": "Alt-Kanischa",
+        "name:en": "Kanjiža",
+        "name:hu": "Magyarkanizsa",
+        "name:ru": "Канижа",
+        "name:sr": "Кањижа",
+        "name:sr-Latn": "Kanjiža",
+        "place": "town",
+        "population": "10193",
+        "wikidata": "Q856309",
+        "wikipedia": "sr:Кањижа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0516482,
+          46.0644447
+        ]
+      },
+      "id": "node/291980717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292550323",
+        "name": "Пријепоље",
+        "name:de": "Prijepolje",
+        "name:en": "Prijepolje",
+        "name:ru": "Приеполье",
+        "name:sr": "Пријепоље",
+        "name:sr-Latn": "Prijepolje",
+        "place": "town",
+        "population": "13330",
+        "wikidata": "Q797036",
+        "wikipedia": "sr:Пријепоље"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6493525,
+          43.389209
+        ]
+      },
+      "id": "node/292550323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292554643",
+        "ele": "1111",
+        "name": "Нова Варош",
+        "name:de": "Nova Varoš",
+        "name:en": "Nova Varoš",
+        "name:ru": "Нова-Варош",
+        "name:sr": "Нова Варош",
+        "name:sr-Latn": "Nova Varoš",
+        "place": "town",
+        "population": "19982",
+        "wikidata": "Q367273",
+        "wikipedia": "sr:Нова Варош"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8154494,
+          43.4597045
+        ]
+      },
+      "id": "node/292554643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292556435",
+        "name": "Сјеница",
+        "name:en": "Sjenica",
+        "name:ru": "Сьеница",
+        "name:sr": "Сјеница",
+        "name:sr-Latn": "Sjenica",
+        "place": "town",
+        "population": "14060",
+        "wikidata": "Q994217",
+        "wikipedia": "sr:Сјеница"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9991727,
+          43.2729348
+        ]
+      },
+      "id": "node/292556435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292556852",
+        "name": "Тутин",
+        "name:en": "Tutin",
+        "name:ru": "Тутин",
+        "name:sr": "Тутин",
+        "name:sr-Latn": "Tutin",
+        "place": "town",
+        "population": "9111",
+        "wikidata": "Q835000",
+        "wikipedia": "sr:Тутин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3366918,
+          42.9903848
+        ]
+      },
+      "id": "node/292556852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292826796",
+        "name": "Нови Кнежевац",
+        "name:de": "Neu-Kanischa",
+        "name:en": "Novi Knezevac",
+        "name:hu": "Törökkanizsa",
+        "name:ru": "Нови-Кнежевац",
+        "name:sr": "Нови Кнежевац",
+        "name:sr-Latn": "Novi Kneževac",
+        "place": "town",
+        "population": "6960",
+        "population:date": "2011",
+        "wikidata": "Q856293",
+        "wikipedia": "sr:Нови Кнежевац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0933532,
+          46.0427093
+        ]
+      },
+      "id": "node/292826796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293191488",
+        "is_in": "Vojvodina;Serbia",
+        "name": "Бачка Топола",
+        "name:de": "Batschka Topola",
+        "name:en": "Bačka Topola",
+        "name:hu": "Topolya",
+        "name:ru": "Бачка-Топола",
+        "name:sr": "Бачка Топола",
+        "name:sr-Latn": "Bačka Topola",
+        "place": "town",
+        "population": "16154",
+        "wikidata": "Q597513",
+        "wikipedia": "sr:Бачка Топола"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6304705,
+          45.8121657
+        ]
+      },
+      "id": "node/293191488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/295392123",
+        "int_name": "Mali Idjos",
+        "is_in": "Serbia",
+        "name": "Мали Иђош",
+        "name:en": "Mali Idjos",
+        "name:hu": "Kishegyes",
+        "name:ru": "Мали-Иджёш",
+        "name:sr": "Мали Иђош",
+        "name:sr-Latn": "Mali Iđoš",
+        "place": "town",
+        "wikidata": "Q785258",
+        "wikipedia": "sr:Мали Иђош"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6667436,
+          45.7065729
+        ]
+      },
+      "id": "node/295392123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307649772",
+        "ele": "186",
+        "name": "Ваљево",
+        "name:ar": "فاليفو",
+        "name:de": "Valjevo",
+        "name:el": "Βάλιεβο",
+        "name:en": "Valjevo",
+        "name:es": "Valjevo",
+        "name:et": "Valjevo",
+        "name:fr": "Valjevo",
+        "name:hr": "Valjevo",
+        "name:lt": "Valjevas",
+        "name:ru": "Валево",
+        "name:sl": "Valjevo",
+        "name:sr": "Ваљево",
+        "name:sr-Latn": "Valjevo",
+        "name:tr": "Valyeva",
+        "name:zh-Hans": "瓦列沃",
+        "name:zh-Hant": "瓦列沃",
+        "place": "city",
+        "population": "58932",
+        "postal_code": "14000",
+        "wikidata": "Q208015",
+        "wikipedia": "sr:Ваљево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8863297,
+          44.2708719
+        ]
+      },
+      "id": "node/307649772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307650310",
+        "name": "Косјерић",
+        "name:de": "Kosjerić",
+        "name:en": "Kosjeric",
+        "name:hr": "Kosjerić",
+        "name:nl": "Kosjerić",
+        "name:ru": "Косьерич",
+        "name:sl": "Kosjerić",
+        "name:sr": "Косјерић",
+        "name:sr-Latn": "Kosjerić",
+        "place": "town",
+        "population": "3992",
+        "wikidata": "Q1017748",
+        "wikipedia": "sr:Косјерић"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9071184,
+          43.9971574
+        ]
+      },
+      "id": "node/307650310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312083066",
+        "name": "Бач",
+        "name:de": "Batsch",
+        "name:en": "Bač",
+        "name:hu": "Bács",
+        "name:sr": "Бач",
+        "name:sr-Latn": "Bač",
+        "place": "town",
+        "population": "5399",
+        "wikidata": "Q684630",
+        "wikipedia": "sr:Бач"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2368045,
+          45.3916793
+        ]
+      },
+      "id": "node/312083066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312083073",
+        "name": "Оџаци",
+        "name:en": "Odzaci",
+        "name:hu": "Hódság",
+        "name:ru": "Оджаци",
+        "name:sr": "Оџаци",
+        "name:sr-Latn": "Odžaci",
+        "old_name:de": "Hodschag",
+        "place": "town",
+        "population": "9021",
+        "wikidata": "Q261976",
+        "wikipedia": "sr:Оџаци"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2597368,
+          45.5058662
+        ]
+      },
+      "id": "node/312083073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312150016",
+        "name": "Апатин",
+        "name:en": "Apatin",
+        "name:hu": "Apatin",
+        "name:lt": "Apatinas",
+        "name:ru": "Апатин",
+        "name:sr": "Апатин",
+        "name:sr-Latn": "Apatin",
+        "place": "town",
+        "population": "17411",
+        "wikidata": "Q372110",
+        "wikipedia": "sr:Апатин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9817862,
+          45.6712544
+        ]
+      },
+      "id": "node/312150016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312166681",
+        "is_in": "Serbia",
+        "name": "Кула",
+        "name:en": "Kula",
+        "name:hu": "Kúla",
+        "name:ru": "Кула",
+        "name:sr": "Кула",
+        "name:sr-Latn": "Kula",
+        "place": "town",
+        "population": "17866",
+        "wikidata": "Q544109",
+        "wikipedia": "sr:Кула (град)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5301174,
+          45.6101491
+        ]
+      },
+      "id": "node/312166681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313853846",
+        "name": "Крагујевац",
+        "name:ar": "كراغوييفاتس",
+        "name:da": "Kragujevac",
+        "name:de": "Kragujevac",
+        "name:el": "Κραγκούγιεβατς",
+        "name:en": "Kragujevac",
+        "name:es": "Kragujevac",
+        "name:et": "Kragujevac",
+        "name:fr": "Kragujevac",
+        "name:he": "קרגוייבץ",
+        "name:hr": "Kragujevac",
+        "name:lt": "Kragujevacas",
+        "name:lv": "Kragujevaca",
+        "name:nl": "Kragujevac",
+        "name:ru": "Крагуевац",
+        "name:sl": "Kragujevac",
+        "name:sr": "Крагујевац",
+        "name:sr-Latn": "Kragujevac",
+        "name:uk": "Крагуєваць",
+        "place": "city",
+        "population": "150835",
+        "wikidata": "Q167394",
+        "wikipedia": "sr:Крагујевац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.91925,
+          44.0130251
+        ]
+      },
+      "id": "node/313853846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317236520",
+        "addr:postcode": "19300",
+        "is_in": "Serbia",
+        "name": "Неготин",
+        "name:en": "Negotin",
+        "name:ro": "Nigotin",
+        "name:ru": "Неготин",
+        "name:sr": "Неготин",
+        "name:sr-Latn": "Negotin",
+        "place": "town",
+        "population": "17758",
+        "website": "http://www.negotin.rs/",
+        "wikidata": "Q649168",
+        "wikipedia": "sr:Неготин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5308921,
+          44.2271199
+        ]
+      },
+      "id": "node/317236520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319343322",
+        "name": "Књажевац",
+        "name:en": "Knjaževac",
+        "name:ru": "Князевац",
+        "name:sr": "Књажевац",
+        "name:sr-Latn": "Knjaževac",
+        "place": "town",
+        "population": "19351",
+        "wikidata": "Q1011275",
+        "wikipedia": "sr:Књажевац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2556547,
+          43.5675155
+        ]
+      },
+      "id": "node/319343322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338659082",
+        "name": "Нови Пазар",
+        "name:ar": "نوفي بازار",
+        "name:de": "Novi Pazar",
+        "name:el": "Νόβι Παζάρ",
+        "name:en": "Novi Pazar",
+        "name:es": "Novi Pazar",
+        "name:et": "Novi Pazar",
+        "name:fr": "Novi Pazar",
+        "name:hr": "Novi Pazar",
+        "name:lt": "Novi Pazaras",
+        "name:ru": "Нови-Пазар",
+        "name:sl": "Novi Pazar",
+        "name:sq": "Pazari i Ri",
+        "name:sr": "Нови Пазар",
+        "name:sr-Latn": "Novi Pazar",
+        "name:tr": "Yeni Pazar",
+        "place": "city",
+        "population": "66527",
+        "wikidata": "Q202453",
+        "wikipedia": "sr:Нови Пазар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5112273,
+          43.1363535
+        ]
+      },
+      "id": "node/338659082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/347730618",
+        "name": "Сента",
+        "name:de": "Zenta",
+        "name:en": "Senta",
+        "name:hu": "Zenta",
+        "name:ru": "Сента",
+        "name:sr": "Сента",
+        "name:sr-Latn": "Senta",
+        "old_name": "Zyntharew",
+        "place": "town",
+        "population": "20363",
+        "source": "GNS",
+        "wikidata": "Q571136",
+        "wikipedia": "sr:Сента"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0901597,
+          45.9312407
+        ]
+      },
+      "id": "node/347730618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/347730664",
+        "name": "Ада",
+        "name:en": "Ada",
+        "name:hu": "Ada",
+        "name:ru": "Ада",
+        "name:sr": "Ада",
+        "name:sr-Latn": "Ada",
+        "place": "town",
+        "population": "9564",
+        "wikidata": "Q346006",
+        "wikipedia": "sr:Ада (град)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.133407,
+          45.7969129
+        ]
+      },
+      "id": "node/347730664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/353439335",
+        "name": "Краљево",
+        "name:ar": "كرالييفو",
+        "name:de": "Kraljevo",
+        "name:el": "Κράλιεβο",
+        "name:en": "Kraljevo",
+        "name:es": "Kraljevo",
+        "name:et": "Kraljevo",
+        "name:fr": "Kraljevo",
+        "name:hr": "Kraljevo",
+        "name:lt": "Kraljevas",
+        "name:ru": "Кралево",
+        "name:sl": "Kraljevo",
+        "name:sr": "Краљево",
+        "name:sr-Latn": "Kraljevo",
+        "place": "city",
+        "population": "64175",
+        "url": "http://www.kraljevo.com/",
+        "wikidata": "Q206317",
+        "wikipedia": "sr:Краљево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6870792,
+          43.7234519
+        ]
+      },
+      "id": "node/353439335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/353467823",
+        "addr:postcode": "11211",
+        "name": "Борча",
+        "name:de": "Borcsa",
+        "name:en": "Borca",
+        "name:hr": "Borča",
+        "name:hu": "Borcsa",
+        "name:ru": "Борча",
+        "name:sl": "Borča",
+        "name:sr": "Борча",
+        "name:sr-Latn": "Borča",
+        "place": "town",
+        "population": "46086",
+        "wikidata": "Q712322",
+        "wikipedia": "sr:Борча"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4570078,
+          44.8773292
+        ]
+      },
+      "id": "node/353467823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/353503238",
+        "name": "Тител",
+        "name:de": "Theisshügel",
+        "name:en": "Titel",
+        "name:hu": "Titel",
+        "name:sr": "Тител",
+        "name:sr-Latn": "Titel",
+        "place": "town",
+        "population": "5294",
+        "wikidata": "Q913768",
+        "wikipedia": "sr:Тител"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3060414,
+          45.2043941
+        ]
+      },
+      "id": "node/353503238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354907052",
+        "name": "Гроцка",
+        "name:en": "Grocka",
+        "name:ru": "Гроцка",
+        "name:sr": "Гроцка",
+        "name:sr-Latn": "Grocka",
+        "place": "town",
+        "population": "8300",
+        "wikidata": "Q2667895",
+        "wikipedia": "sr:Гроцка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7170219,
+          44.6709248
+        ]
+      },
+      "id": "node/354907052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355055009",
+        "is_in": "Serbia",
+        "name": "Горњи Милановац",
+        "name:en": "Gornji Milanovac",
+        "name:lt": "Gorni Milanovacas",
+        "name:ru": "Горни-Милановац",
+        "name:sr": "Горњи Милановац",
+        "name:sr-Latn": "Gornji Milanovac",
+        "place": "town",
+        "population": "23982",
+        "website": "http://www.gornjimilanovac.rs",
+        "wikidata": "Q714668",
+        "wikipedia": "sr:Горњи Милановац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4600377,
+          44.0243159
+        ]
+      },
+      "id": "node/355055009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/359219458",
+        "name": "Смедерево",
+        "name:ar": "سميديريفو",
+        "name:de": "Semendria",
+        "name:en": "Smederevo",
+        "name:es": "Smederevo",
+        "name:et": "Smederevo",
+        "name:fr": "Smederevo",
+        "name:hr": "Smederevo",
+        "name:hu": "Szendrő",
+        "name:la": "Semendria",
+        "name:ru": "Смедерево",
+        "name:sr": "Смедерево",
+        "name:sr-Latn": "Smederevo",
+        "name:tr": "Semendire",
+        "place": "city",
+        "population": "64175",
+        "postal_code": "11300",
+        "wikidata": "Q190774",
+        "wikipedia": "sr:Смедерево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9271115,
+          44.6651048
+        ]
+      },
+      "id": "node/359219458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/361573409",
+        "name": "Прибој",
+        "name:en": "Priboj",
+        "name:ru": "Прибой",
+        "name:sr": "Прибој",
+        "name:sr-Latn": "Priboj",
+        "place": "town",
+        "population": "14920",
+        "wikidata": "Q1256993",
+        "wikipedia": "sr:Прибој"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5258167,
+          43.5828497
+        ]
+      },
+      "id": "node/361573409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364942011",
+        "name": "Младеновац",
+        "name:en": "Mladenovac",
+        "name:ru": "Младеновац",
+        "name:sr": "Младеновац",
+        "name:sr-Latn": "Mladenovac",
+        "place": "town",
+        "population": "23609",
+        "wikidata": "Q12637166",
+        "wikipedia": "sr:Младеновац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6941535,
+          44.4401166
+        ]
+      },
+      "id": "node/364942011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367764183",
+        "name": "Јагодина",
+        "name:ar": "ياغودينا",
+        "name:de": "Jagodina",
+        "name:en": "Jagodina",
+        "name:es": "Jagodina",
+        "name:et": "Jagodina",
+        "name:fr": "Jagodina",
+        "name:hr": "Jagodina",
+        "name:ru": "Ягодина",
+        "name:sl": "Jagodina",
+        "name:sr": "Јагодина",
+        "name:sr-Latn": "Jagodina",
+        "place": "city",
+        "population": "35589",
+        "wikidata": "Q390358",
+        "wikipedia": "sr:Јагодина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2607688,
+          43.9794256
+        ]
+      },
+      "id": "node/367764183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367764418",
+        "name": "Лапово",
+        "name:en": "Lapovo",
+        "name:hr": "Lapovo",
+        "name:ru": "Лапово",
+        "name:sl": "Lapovo",
+        "name:sr": "Лапово",
+        "name:sr-Latn": "Lapovo",
+        "place": "town",
+        "population": "7143",
+        "wikidata": "Q2269545",
+        "wikipedia": "sr:Лапово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1048388,
+          44.1854664
+        ]
+      },
+      "id": "node/367764418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370352698",
+        "name": "Пирот",
+        "name:de": "Pirot",
+        "name:en": "Pirot",
+        "name:la": "Turres",
+        "name:nl": "Pirot",
+        "name:ru": "Пирот",
+        "name:sr": "Пирот",
+        "name:sr-Latn": "Pirot",
+        "place": "city",
+        "population": "38785",
+        "wikidata": "Q309343",
+        "wikipedia": "sr:Пирот"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5865039,
+          43.1547342
+        ]
+      },
+      "id": "node/370352698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/372815072",
+        "name": "Љиг",
+        "name:en": "Ljig",
+        "name:hr": "Ljig",
+        "name:ru": "Лиг",
+        "name:sl": "Ljig",
+        "name:sr": "Љиг",
+        "name:sr-Latn": "Ljig",
+        "place": "town",
+        "population": "2979",
+        "wikidata": "Q1252490",
+        "wikipedia": "sr:Љиг"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2399384,
+          44.225332
+        ]
+      },
+      "id": "node/372815072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416382721",
+        "name": "Златибор",
+        "name:el": "Ζλάτιμπορ",
+        "name:en": "Zlatibor",
+        "name:hr": "Zlatibor",
+        "name:ru": "Златибор",
+        "name:sl": "Zlatibor",
+        "name:sr": "Златибор",
+        "name:sr-Latn": "Zlatibor",
+        "old_name:-1893": "Кулашевац",
+        "old_name:1893-1946": "Краљева Вода",
+        "old_name:1946-1991": "Партизанске Воде",
+        "place": "town",
+        "population": "2821",
+        "wikidata": "Q2748924",
+        "wikipedia": "sr:Златибор (Чајетина)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6997891,
+          43.7265428
+        ]
+      },
+      "id": "node/416382721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416476184",
+        "name": "Мионица",
+        "name:en": "Mionica",
+        "name:hr": "Mionica",
+        "name:ru": "Мионица",
+        "name:sl": "Mionica",
+        "name:sr": "Мионица",
+        "name:sr-Latn": "Mionica",
+        "place": "town",
+        "population": "1620",
+        "wikidata": "Q2360570",
+        "wikipedia": "sr:Мионица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.084082,
+          44.252921
+        ]
+      },
+      "id": "node/416476184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416683959",
+        "license_plate_code": "VB",
+        "name": "Врњачка Бања",
+        "name:de": "Vrnjačka Banja",
+        "name:en": "Vrnjacka Banja",
+        "name:fr": "Vrnjačka Banja",
+        "name:hr": "Vrnjačka Banja",
+        "name:ru": "Врнячка Баня",
+        "name:sl": "Vrnjačka Banja",
+        "name:sr": "Врњачка Бања",
+        "name:sr-Latn": "Vrnjačka Banja",
+        "place": "town",
+        "population": "9912",
+        "postal_code": "36210",
+        "telephone_area_code": "036",
+        "website": "http://www.opstinavrnjackabanja.com/",
+        "wikidata": "Q832340",
+        "wikipedia": "sr:Врњачка Бања"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8929353,
+          43.6221774
+        ]
+      },
+      "id": "node/416683959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417187593",
+        "name": "Лајковац",
+        "name:en": "Lajkovac",
+        "name:hr": "Lajkovac",
+        "name:ru": "Лайковац",
+        "name:sl": "Lajkovac",
+        "name:sr": "Лајковац",
+        "name:sr-Latn": "Lajkovac",
+        "place": "town",
+        "population": "3249",
+        "wikidata": "Q2360556",
+        "wikipedia": "sr:Лајковац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1658213,
+          44.3698615
+        ]
+      },
+      "id": "node/417187593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417200414",
+        "name": "Уб",
+        "name:en": "Ub",
+        "name:hr": "Ub",
+        "name:ru": "Уб",
+        "name:sr": "Уб",
+        "name:sr-Latn": "Ub",
+        "place": "town",
+        "population": "6018",
+        "wikidata": "Q1273297",
+        "wikipedia": "sr:Уб"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0737772,
+          44.456203
+        ]
+      },
+      "id": "node/417200414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418640039",
+        "name": "Рашка",
+        "name:bg": "Рашка",
+        "name:cs": "Raška",
+        "name:de": "Raška",
+        "name:en": "Raška",
+        "name:eo": "Raška",
+        "name:es": "Raška",
+        "name:fr": "Raška",
+        "name:gl": "Raška",
+        "name:hr": "Raška",
+        "name:hu": "Raška",
+        "name:it": "Raška",
+        "name:ms": "Raška",
+        "name:nl": "Raška",
+        "name:pl": "Raška",
+        "name:pt": "Ráscia",
+        "name:ru": "Рашка",
+        "name:sl": "Raška",
+        "name:sr": "Рашка",
+        "name:sr-Latn": "Raška",
+        "name:tr": "Raşka",
+        "name:zh": "拉什卡",
+        "place": "town",
+        "population": "6619",
+        "postal_code": "36350",
+        "wikidata": "Q856332",
+        "wikipedia": "sr:Рашка (град)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6141348,
+          43.2869592
+        ]
+      },
+      "id": "node/418640039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/419136775",
+        "name": "Топола",
+        "name:en": "Topola",
+        "name:hr": "Topola",
+        "name:ru": "Топола",
+        "name:sl": "Topola",
+        "name:sr": "Топола",
+        "name:sr-Latn": "Topola",
+        "place": "town",
+        "population": "4973",
+        "wikidata": "Q991072",
+        "wikipedia": "sr:Топола (град)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6797215,
+          44.2544752
+        ]
+      },
+      "id": "node/419136775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/419138241",
+        "int_name": "Arandjelovac",
+        "name": "Аранђеловац",
+        "name:en": "Arandjelovac",
+        "name:hr": "Aranđelovac",
+        "name:ru": "Аранджеловац",
+        "name:sl": "Aranđelovac",
+        "name:sr": "Аранђеловац",
+        "name:sr-Latn": "Aranđelovac",
+        "place": "town",
+        "population": "24309",
+        "wikidata": "Q583161",
+        "wikipedia": "sr:Аранђеловац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5572396,
+          44.3074611
+        ]
+      },
+      "id": "node/419138241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429180325",
+        "name": "Ивањица",
+        "name:en": "Ivanjica",
+        "name:hr": "Ivanjica",
+        "name:ru": "Иваница",
+        "name:sl": "Ivanjica",
+        "name:sr": "Ивањица",
+        "name:sr-Latn": "Ivanjica",
+        "place": "town",
+        "population": "11750",
+        "wikidata": "Q1002841",
+        "wikipedia": "sr:Ивањица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2304548,
+          43.5816675
+        ]
+      },
+      "id": "node/429180325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/431159050",
+        "name": "Љубовија",
+        "name:de": "Ljubovija",
+        "name:en": "Ljubovija",
+        "name:hr": "Ljubovija",
+        "name:ru": "Любовия",
+        "name:sl": "Ljubovija",
+        "name:sr": "Љубовија",
+        "name:sr-Latn": "Ljubovija",
+        "place": "town",
+        "population": "3929",
+        "wikidata": "Q1900390",
+        "wikipedia": "sr:Љубовија"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.375897,
+          44.1876246
+        ]
+      },
+      "id": "node/431159050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/449622728",
+        "name": "Блаце",
+        "name:en": "Blace",
+        "name:hr": "Blace",
+        "name:ru": "Блаце",
+        "name:sl": "Blace",
+        "name:sr": "Блаце",
+        "name:sr-Latn": "Blace",
+        "place": "town",
+        "population": "5465",
+        "wikidata": "Q879935",
+        "wikipedia": "sr:Блаце"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2865967,
+          43.2955155
+        ]
+      },
+      "id": "node/449622728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/449625244",
+        "name": "Прокупље",
+        "name:de": "Prokuplje",
+        "name:el": "Προκούπλιε",
+        "name:en": "Prokuplje",
+        "name:hr": "Prokuplje",
+        "name:old": "Prokuplje",
+        "name:ru": "Прокупле",
+        "name:sl": "Prokuplje",
+        "name:sr": "Прокупље",
+        "name:sr-Latn": "Prokuplje",
+        "place": "city",
+        "population": "27333",
+        "wikidata": "Q729524",
+        "wikipedia": "sr:Прокупље"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5884422,
+          43.2343484
+        ]
+      },
+      "id": "node/449625244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/449750290",
+        "geonames:id": "788852",
+        "gnadmin": "YU",
+        "gnfeature": "P",
+        "gnfeaturec": "PPL",
+        "name": "Куршумлија",
+        "name:el": "Κουρσούμλια",
+        "name:en": "Kursumlija",
+        "name:hr": "Kuršumlija",
+        "name:ru": "Куршумлия",
+        "name:sl": "Kuršumlija",
+        "name:sr": "Куршумлија",
+        "name:sr-Latn": "Kuršumlija",
+        "place": "town",
+        "population": "12866",
+        "wikidata": "Q995031",
+        "wikipedia": "sr:Куршумлија"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2719964,
+          43.1379262
+        ]
+      },
+      "id": "node/449750290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/453820865",
+        "name": "Нишка Бања",
+        "name:en": "Niska Banja",
+        "name:sr": "Нишка Бања",
+        "name:sr-Latn": "Niška Banja",
+        "place": "town",
+        "population": "4380",
+        "wikidata": "Q954986",
+        "wikipedia": "sr:Нишка Бања"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0072312,
+          43.2933122
+        ]
+      },
+      "id": "node/453820865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/454622868",
+        "name": "Чајетина",
+        "name:en": "Cajetina",
+        "name:ru": "Чаетина",
+        "name:sr": "Чајетина",
+        "name:sr-Latn": "Čajetina",
+        "place": "town",
+        "population": "3151",
+        "wikidata": "Q337497",
+        "wikipedia": "sr:Чајетина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7167804,
+          43.7506286
+        ]
+      },
+      "id": "node/454622868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469278751",
+        "addr:postcode": "22239;22240",
+        "name": "Шид",
+        "name:bs": "Šid",
+        "name:de": "Schid",
+        "name:en": "Šid",
+        "name:hr": "Šid",
+        "name:hu": "Sid",
+        "name:ru": "Шид",
+        "name:sr": "Шид",
+        "name:sr-Latn": "Šid",
+        "place": "town",
+        "population": "14893",
+        "wikidata": "Q391545",
+        "wikipedia": "sr:Шид"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2291509,
+          45.126371
+        ]
+      },
+      "id": "node/469278751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470377833",
+        "name": "Димитровград",
+        "name:bg": "Цариброд",
+        "name:en": "Dimitrovgrad",
+        "name:nl": "Dimitrovgrad",
+        "name:ru": "Димитровград",
+        "name:sr": "Димитровград",
+        "name:sr-Latn": "Dimitrovgrad",
+        "old_name": "Цариброд",
+        "place": "town",
+        "population": "6968",
+        "wikidata": "Q747470",
+        "wikipedia": "sr:Димитровград"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7781993,
+          43.0157433
+        ]
+      },
+      "id": "node/470377833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474498205",
+        "is_in": "Serbia",
+        "name": "Доњи Милановац",
+        "name:en": "Donji Milanovac",
+        "name:ru": "Дони-Милановац",
+        "name:sr": "Доњи Милановац",
+        "name:sr-Latn": "Donji Milanovac",
+        "place": "town",
+        "source": "GPS OSMUser:Kotoj",
+        "wikidata": "Q1002286",
+        "wikipedia": "sr:Доњи Милановац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1523003,
+          44.462747
+        ]
+      },
+      "id": "node/474498205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475403829",
+        "is_in": "Serbia",
+        "name": "Голубац",
+        "name:de": "Golubac",
+        "name:en": "Golubac",
+        "name:fr": "Golubac",
+        "name:hu": "Galambóc",
+        "name:ru": "Голубац",
+        "name:sr": "Голубац",
+        "name:sr-Latn": "Golubac",
+        "place": "town",
+        "population": "1896",
+        "wikidata": "Q845997",
+        "wikipedia": "sr:Голубац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6330096,
+          44.6519263
+        ]
+      },
+      "id": "node/475403829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/512051228",
+        "name": "Житиште",
+        "name:ar": "جيتيشتي",
+        "name:ca": "Žitište",
+        "name:cs": "Žitište",
+        "name:de": "Žitište",
+        "name:en": "Zitiste",
+        "name:eo": "Ĵitiŝte",
+        "name:es": "Žitište",
+        "name:fa": "ژیتیشته",
+        "name:fr": "Žitište",
+        "name:hr": "Žitište",
+        "name:hu": "Bégaszentgyörgy",
+        "name:it": "Žitište",
+        "name:ko": "지티슈테",
+        "name:ms": "Žitište",
+        "name:nl": "Žitište",
+        "name:pl": "Žitište",
+        "name:ro": "Jitiște",
+        "name:sl": "Žitište",
+        "name:sr": "Житиште",
+        "name:sr-Latn": "Žitište",
+        "name:tr": "Žitište",
+        "name:zh": "日蒂什泰",
+        "place": "town",
+        "population": "2903",
+        "population:date": "2011",
+        "wikidata": "Q394134",
+        "wikipedia": "sr:Житиште"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5519957,
+          45.4833996
+        ]
+      },
+      "id": "node/512051228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/561313083",
+        "name": "Лазаревац",
+        "name:de": "Zenobitz",
+        "name:en": "Lazarevac",
+        "name:ru": "Лазаревац",
+        "name:sr": "Лазаревац",
+        "name:sr-Latn": "Lazarevac",
+        "place": "town",
+        "population": "23600",
+        "wikidata": "Q714606",
+        "wikipedia": "sr:Лазаревац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.261033,
+          44.3815176
+        ]
+      },
+      "id": "node/561313083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/600576574",
+        "name": "Стара Пазова",
+        "name:de": "Alt-Pasua",
+        "name:en": "Stara Pazova",
+        "name:hu": "Ópazova",
+        "name:ru": "Стара-Пазова",
+        "name:sr": "Стара Пазова",
+        "name:sr-Latn": "Stara Pazova",
+        "place": "town",
+        "population": "18602",
+        "population:date": "2011",
+        "postal_code": "22300",
+        "wikidata": "Q584694",
+        "wikipedia": "sr:Стара Пазова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1588763,
+          44.9846077
+        ]
+      },
+      "id": "node/600576574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611866026",
+        "name": "Рача",
+        "name:en": "Raca",
+        "name:ru": "Рача",
+        "name:sr": "Рача",
+        "name:sr-Latn": "Rača",
+        "place": "town",
+        "population": "2744",
+        "wikidata": "Q2693647",
+        "wikipedia": "sr:Рача"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9801511,
+          44.2253438
+        ]
+      },
+      "id": "node/611866026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622323437",
+        "name": "Бор",
+        "name:de": "Bor",
+        "name:en": "Bor",
+        "name:ru": "Бор",
+        "name:sr": "Бор",
+        "name:sr-Latn": "Bor",
+        "place": "city",
+        "population": "34160",
+        "population:date": "2011",
+        "wikidata": "Q462461",
+        "wikipedia": "sr:Бор (град)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0991779,
+          44.0778456
+        ]
+      },
+      "id": "node/622323437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/646984720",
+        "name": "Сремска Каменица",
+        "name:de": "Kamenitz",
+        "name:en": "Sremska Kamenica",
+        "name:hu": "Kamanc",
+        "name:ru": "Сремска-Каменица",
+        "name:sr": "Сремска Каменица",
+        "name:sr-Latn": "Sremska Kamenica",
+        "place": "town",
+        "population": "12273",
+        "wikidata": "Q598018",
+        "wikipedia": "sr:Сремска Каменица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8419217,
+          45.2223202
+        ]
+      },
+      "id": "node/646984720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/648487805",
+        "addr:postcode": "15316",
+        "name": "Бања Ковиљача",
+        "name:ar": "بانيا كوفيلياتشا",
+        "name:de": "Banja Koviljača",
+        "name:en": "Banja Koviljaca",
+        "name:ru": "Баня-Ковиляча",
+        "name:sr": "Бања Ковиљача",
+        "name:sr-Latn": "Banja Koviljača",
+        "name:zh": "巴尼亞科維利亞查",
+        "place": "town",
+        "population": "5151",
+        "wikidata": "Q806587",
+        "wikipedia": "sr:Бања Ковиљача"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1585984,
+          44.5138269
+        ]
+      },
+      "id": "node/648487805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/809988090",
+        "name": "Ковачица",
+        "name:de": "Kowatschitza",
+        "name:en": "Kovačica",
+        "name:hu": "Antalfalva",
+        "name:ru": "Ковачица",
+        "name:sr": "Ковачица",
+        "name:sr-Latn": "Kovačica",
+        "place": "town",
+        "population": "6259",
+        "population:date": "2011",
+        "wikidata": "Q771826",
+        "wikipedia": "sr:Ковачица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6200326,
+          45.1119346
+        ]
+      },
+      "id": "node/809988090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/810274491",
+        "name": "Качарево",
+        "name:en": "Kacarevo",
+        "name:hu": "Ferenchalom",
+        "name:sr": "Качарево",
+        "name:sr-Latn": "Kačarevo",
+        "place": "town",
+        "population": "7100",
+        "population:date": "2011",
+        "wikidata": "Q1000481",
+        "wikipedia": "sr:Качарево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6995481,
+          44.9665856
+        ]
+      },
+      "id": "node/810274491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/827013614",
+        "is_in": "Serbia",
+        "name": "Кладово",
+        "name:en": "Kladovo",
+        "name:ro": "Cladova",
+        "name:ru": "Кладово",
+        "name:sr": "Кладово",
+        "name:sr-Latn": "Kladovo",
+        "place": "town",
+        "population": "8869",
+        "source": "GPS OSMUser:Kotoj",
+        "wikidata": "Q27163",
+        "wikipedia": "sr:Кладово"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6136517,
+          44.6093983
+        ]
+      },
+      "id": "node/827013614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848084912",
+        "addr:postcode": "31000",
+        "int_name": "Uzice",
+        "name": "Ужице",
+        "name:am": "ኡዚዝ",
+        "name:ar": "أوزيتسه",
+        "name:be": "Ужыцкае",
+        "name:bn": "উজিস",
+        "name:de": "Užice",
+        "name:el": "Ούζιτσε",
+        "name:en": "Uzice",
+        "name:es": "Užice",
+        "name:fr": "Užice",
+        "name:lt": "Užicė",
+        "name:ru": "Ужице",
+        "name:sr": "Ужице",
+        "name:sr-Latn": "Užice",
+        "name:tr": "Öziçe",
+        "name:zh": "烏齊採",
+        "name:zh-Hans": "乌兹采",
+        "place": "city",
+        "population": "52646",
+        "website": "http://www.graduzice.org/",
+        "wikidata": "Q59473",
+        "wikipedia": "sr:Ужице"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.840273,
+          43.8564957
+        ]
+      },
+      "id": "node/848084912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848393787",
+        "ele": "85",
+        "name": "Ковин",
+        "name:en": "Kovin",
+        "name:hu": "Kevevára",
+        "name:ru": "Ковин",
+        "name:sr": "Ковин",
+        "name:sr-Latn": "Kovin",
+        "place": "town",
+        "population": "13515",
+        "population:date": "2011",
+        "website": "http://www.kovin.org.rs/",
+        "wikidata": "Q617416",
+        "wikipedia": "sr:Ковин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9781361,
+          44.7412405
+        ]
+      },
+      "id": "node/848393787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/868065380",
+        "name": "Гуча",
+        "name:en": "Guca",
+        "name:sr": "Гуча",
+        "name:sr-Latn": "Guča",
+        "place": "town",
+        "population": "1755",
+        "population:date": "2011",
+        "wikidata": "Q1012774",
+        "wikipedia": "sr:Гуча"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2269416,
+          43.7772932
+        ]
+      },
+      "id": "node/868065380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/878610646",
+        "name": "Чока",
+        "name:de": "Tschoka",
+        "name:en": "Coka",
+        "name:hu": "Csóka",
+        "name:ru": "Чока",
+        "name:sr": "Чока",
+        "name:sr-Latn": "Čoka",
+        "place": "town",
+        "population": "4028",
+        "population:date": "2011",
+        "wikidata": "Q876180",
+        "wikipedia": "sr:Чока"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1399443,
+          45.9411228
+        ]
+      },
+      "id": "node/878610646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/907047175",
+        "license_plate_code": "TS",
+        "name": "Трстеник",
+        "name:en": "Trstenik",
+        "name:ru": "Трстеник",
+        "name:sr": "Трстеник",
+        "name:sr-Latn": "Trstenik",
+        "place": "town",
+        "population": "17180",
+        "postal_code": "37240",
+        "telephone_area_code": "037",
+        "website": "http://www.trstenik.rs/",
+        "wikidata": "Q1013189",
+        "wikipedia": "sr:Трстеник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9984448,
+          43.620214
+        ]
+      },
+      "id": "node/907047175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/955603411",
+        "name": "Кикинда",
+        "name:de": "Großkikinda",
+        "name:en": "Kikinda",
+        "name:hu": "Nagykikinda",
+        "name:lt": "Kikinda",
+        "name:nl": "Kikinda",
+        "name:ro": "Chichinda Mare",
+        "name:ru": "Кикинда",
+        "name:sk": "Kikinda",
+        "name:sr": "Кикинда",
+        "name:sr-Latn": "Kikinda",
+        "place": "city",
+        "population": "38065",
+        "population:date": "2011",
+        "wikidata": "Q309355",
+        "wikipedia": "sr:Кикинда"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4653942,
+          45.8297838
+        ]
+      },
+      "id": "node/955603411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/958236834",
+        "name": "Рековац",
+        "name:en": "Rekovac",
+        "name:ru": "Рековац",
+        "name:sr": "Рековац",
+        "name:sr-Latn": "Rekovac",
+        "place": "town",
+        "population": "1930",
+        "wikidata": "Q3423988",
+        "wikipedia": "sr:Рековац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0935298,
+          43.8582678
+        ]
+      },
+      "id": "node/958236834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/971106814",
+        "name": "Мол",
+        "name:en": "Mol",
+        "name:hu": "Mohol",
+        "name:sr": "Мол",
+        "name:sr-Latn": "Mol",
+        "place": "town",
+        "population": "6009",
+        "wikidata": "Q731701",
+        "wikipedia": "sr:Мол (Ада)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.130055,
+          45.7638971
+        ]
+      },
+      "id": "node/971106814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988017157",
+        "name": "Бела Црква",
+        "name:de": "Weißkirchen",
+        "name:en": "Bela Crkva",
+        "name:hu": "Fehértemplom",
+        "name:ro": "Biserica Albă",
+        "name:ru": "Бела-Црква",
+        "name:sr": "Бела Црква",
+        "name:sr-Latn": "Bela Crkva",
+        "place": "town",
+        "population": "9080",
+        "population:date": "2011",
+        "wikidata": "Q541470",
+        "wikipedia": "sr:Бела Црква"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.422117,
+          44.901587
+        ]
+      },
+      "id": "node/988017157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1001347394",
+        "name": "Кнић",
+        "name:en": "Knic",
+        "name:ru": "Книч",
+        "name:sr": "Кнић",
+        "name:sr-Latn": "Knić",
+        "place": "town",
+        "population": "2166",
+        "wikidata": "Q1276528",
+        "wikipedia": "sr:Кнић"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7201588,
+          43.9265691
+        ]
+      },
+      "id": "node/1001347394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1001823871",
+        "name": "Баточина",
+        "name:en": "Batocina",
+        "name:ru": "Баточина",
+        "name:sr": "Баточина",
+        "name:sr-Latn": "Batočina",
+        "place": "town",
+        "population": "5804",
+        "wikidata": "Q810884",
+        "wikipedia": "sr:Баточина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0790735,
+          44.152604
+        ]
+      },
+      "id": "node/1001823871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1019014149",
+        "name": "Алибунар",
+        "name:en": "Alibunar",
+        "name:hu": "Alibunár",
+        "name:sr": "Алибунар",
+        "name:sr-Latn": "Alibunar",
+        "place": "town",
+        "population": "3007",
+        "population:date": "2011",
+        "wikidata": "Q648863",
+        "wikipedia": "sr:Алибунар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.966524,
+          45.0800389
+        ]
+      },
+      "id": "node/1019014149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1073502821",
+        "name": "Банатски Карловац",
+        "name:en": "Banatski Karlovac",
+        "name:hu": "Nagykárolyfalva",
+        "name:sr": "Банатски Карловац",
+        "name:sr-Latn": "Banatski Karlovac",
+        "place": "town",
+        "population": "5082",
+        "population:date": "2011",
+        "wikidata": "Q1042129",
+        "wikipedia": "sr:Банатски Карловац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0176284,
+          45.0500316
+        ]
+      },
+      "id": "node/1073502821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1074944948",
+        "name": "Мачванска Митровица",
+        "name:en": "Macvanska Mitrovica",
+        "name:hu": "Szenterenye",
+        "name:sr": "Мачванска Митровица",
+        "name:sr-Latn": "Mačvanska Mitrovica",
+        "place": "town",
+        "population": "3873",
+        "population:date": "2011",
+        "wikidata": "Q1014882",
+        "wikipedia": "sr:Мачванска Митровица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5946213,
+          44.9666021
+        ]
+      },
+      "id": "node/1074944948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1074945061",
+        "name": "Јаша Томић",
+        "name:en": "Jasa Tomic",
+        "name:hu": "Módos",
+        "name:ro": "Modoș",
+        "name:sr": "Јаша Томић",
+        "name:sr-Latn": "Jaša Tomić",
+        "place": "town",
+        "population": "2373",
+        "population:date": "2011",
+        "wikidata": "Q785546",
+        "wikipedia": "sr:Јаша Томић (Сечањ)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8564493,
+          45.4465892
+        ]
+      },
+      "id": "node/1074945061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1075543696",
+        "name": "Старчево",
+        "name:en": "Starčevo",
+        "name:hu": "Tárcsó",
+        "name:sr": "Старчево",
+        "name:sr-Latn": "Starčevo",
+        "place": "town",
+        "population": "7473",
+        "population:date": "2011",
+        "website": "http://www.starcevo.org.rs/",
+        "wikidata": "Q1068137",
+        "wikipedia": "sr:Старчево (Панчево)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6998149,
+          44.8100472
+        ]
+      },
+      "id": "node/1075543696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1077210932",
+        "addr:postcode": "15350",
+        "name": "Богатић",
+        "name:ar": "بوغاتيتش",
+        "name:en": "Bogatic",
+        "name:ru": "Богатич",
+        "name:sr": "Богатић",
+        "name:sr-Latn": "Bogatić",
+        "place": "town",
+        "population": "32990",
+        "wikidata": "Q833281",
+        "wikipedia": "sr:Богатић"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4805641,
+          44.8348381
+        ]
+      },
+      "id": "node/1077210932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1079222912",
+        "name": "Беочин",
+        "name:de": "Beotschin",
+        "name:en": "Beocin",
+        "name:hu": "Belcsény",
+        "name:nl": "Beočin",
+        "name:ru": "Беочин",
+        "name:sr": "Беочин",
+        "name:sr-Latn": "Beočin",
+        "place": "town",
+        "population": "8037",
+        "wikidata": "Q661718",
+        "wikipedia": "sr:Беочин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7209347,
+          45.2099153
+        ]
+      },
+      "id": "node/1079222912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1101409087",
+        "name": "Лучани",
+        "name:en": "Lucani",
+        "name:ru": "Лучани",
+        "name:sr": "Лучани",
+        "name:sr-Latn": "Lučani",
+        "place": "town",
+        "population": "3387",
+        "wikidata": "Q2089397",
+        "wikipedia": "sr:Лучани"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1364397,
+          43.8601395
+        ]
+      },
+      "id": "node/1101409087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1145970042",
+        "is_in": "Serbia",
+        "name": "Сомбор",
+        "name:en": "Sombor",
+        "name:hu": "Zombor",
+        "name:ru": "Сомбор",
+        "name:sr": "Сомбор",
+        "name:sr-Latn": "Sombor",
+        "place": "city",
+        "population": "51471",
+        "wikidata": "Q204475",
+        "wikipedia": "sr:Сомбор"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1147036,
+          45.7727397
+        ]
+      },
+      "id": "node/1145970042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1165809314",
+        "name": "Бојник",
+        "name:en": "Bojnik",
+        "name:ru": "Бойник",
+        "name:sr": "Бојник",
+        "name:sr-Latn": "Bojnik",
+        "place": "town",
+        "population": "3159",
+        "wikidata": "Q595248",
+        "wikipedia": "sr:Бојник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7211339,
+          43.0140837
+        ]
+      },
+      "id": "node/1165809314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1187056410",
+        "name": "Сопот",
+        "name:en": "Sopot",
+        "name:ru": "Сопот",
+        "name:sr": "Сопот",
+        "name:sr-Latn": "Sopot",
+        "place": "town",
+        "population": "1920",
+        "wikidata": "Q1013179",
+        "wikipedia": "sr:Сопот"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5753544,
+          44.5199324
+        ]
+      },
+      "id": "node/1187056410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1200007164",
+        "name": "Бели Поток",
+        "name:en": "Beli Potok",
+        "name:sr": "Бели Поток",
+        "name:sr-Latn": "Beli Potok",
+        "place": "town",
+        "population": "3621",
+        "wikidata": "Q2894438",
+        "wikipedia": "sr:Бели Поток (Вождовац)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5192479,
+          44.706111
+        ]
+      },
+      "id": "node/1200007164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1223609453",
+        "name": "Барајево",
+        "name:en": "Barajevo",
+        "name:ru": "Бараево",
+        "name:sr": "Барајево",
+        "name:sr-Latn": "Barajevo",
+        "place": "town",
+        "population": "9158",
+        "wikidata": "Q807231",
+        "wikipedia": "sr:Барајево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.416673,
+          44.5775897
+        ]
+      },
+      "id": "node/1223609453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1270099743",
+        "name": "Бољевац",
+        "name:en": "Boljevac",
+        "name:ru": "Болевац",
+        "name:sr": "Бољевац",
+        "name:sr-Latn": "Boljevac",
+        "place": "town",
+        "population": "3333",
+        "wikidata": "Q1419953",
+        "wikipedia": "sr:Бољевац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9587438,
+          43.8304776
+        ]
+      },
+      "id": "node/1270099743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1312746005",
+        "name": "Црвенка",
+        "name:en": "Crvenka",
+        "name:hu": "Cservenka",
+        "name:sr": "Црвенка",
+        "name:sr-Latn": "Crvenka",
+        "old_name:de": "Tscherwenka;Rotweil",
+        "place": "town",
+        "population": "9001",
+        "wikidata": "Q872477",
+        "wikipedia": "sr:Црвенка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4562036,
+          45.6585062
+        ]
+      },
+      "id": "node/1312746005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1337493915",
+        "name": "Матарушка Бања",
+        "name:en": "Mataruska Banja",
+        "name:ru": "Матарушка Баня",
+        "name:sr": "Матарушка Бања",
+        "name:sr-Latn": "Mataruška Banja",
+        "place": "town",
+        "population": "2950",
+        "wikidata": "Q672471",
+        "wikipedia": "sr:Матарушка Бања"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6093678,
+          43.6893066
+        ]
+      },
+      "id": "node/1337493915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1340352822",
+        "name": "Вршац",
+        "name:en": "Vršac",
+        "name:he": "ורשאץ",
+        "name:hu": "Versec",
+        "name:ro": "Vârșeț",
+        "name:ru": "Вршац",
+        "name:sr": "Вршац",
+        "name:sr-Latn": "Vršac",
+        "old_name:de": "Werschetz",
+        "place": "city",
+        "population": "36040",
+        "population:date": "2011",
+        "wikidata": "Q209329",
+        "wikipedia": "sr:Вршац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2960485,
+          45.1211263
+        ]
+      },
+      "id": "node/1340352822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1356177847",
+        "license_plate_code": "KŠ",
+        "name": "Брус",
+        "name:en": "Brus",
+        "name:ru": "Брус",
+        "name:sr": "Брус",
+        "name:sr-Latn": "Brus",
+        "place": "town",
+        "population": "4653",
+        "postal_code": "37220",
+        "telephone_area_code": "037",
+        "wikidata": "Q919617",
+        "wikipedia": "sr:Брус"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.031093,
+          43.3847375
+        ]
+      },
+      "id": "node/1356177847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1371653451",
+        "alt_name": "Велики Црљани",
+        "name": "Велики Црљени",
+        "name:en": "Veliki Crljeni",
+        "name:sr": "Велики Црљени",
+        "name:sr-Latn": "Veliki Crljeni",
+        "place": "town",
+        "population": "4318",
+        "wikidata": "Q2984526",
+        "wikipedia": "sr:Велики Црљени"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2894082,
+          44.4733323
+        ]
+      },
+      "id": "node/1371653451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386145708",
+        "addr:postcode": "17530",
+        "name": "Сурдулица",
+        "name:de": "Surdulica",
+        "name:en": "Surdulica",
+        "name:ru": "Сурдулица",
+        "name:sr": "Сурдулица",
+        "name:sr-Latn": "Surdulica",
+        "place": "town",
+        "population": "10914",
+        "wikidata": "Q431317",
+        "wikipedia": "sr:Сурдулица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1701473,
+          42.6919329
+        ]
+      },
+      "id": "node/1386145708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1437082478",
+        "name": "Умка",
+        "name:en": "Umka",
+        "name:sr": "Умка",
+        "name:sr-Latn": "Umka",
+        "place": "town",
+        "population": "5272",
+        "wikidata": "Q3050835",
+        "wikipedia": "sr:Умка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3050863,
+          44.6785303
+        ]
+      },
+      "id": "node/1437082478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446626105",
+        "addr:postcode": "16220",
+        "name": "Грделица",
+        "name:en": "Grdelica",
+        "name:ru": "Грделица",
+        "name:sr": "Грделица",
+        "name:sr-Latn": "Grdelica",
+        "place": "town",
+        "population": "2136",
+        "wikidata": "Q3049241",
+        "wikipedia": "sr:Грделица (варош)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0754695,
+          42.8904977
+        ]
+      },
+      "id": "node/1446626105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1461320774",
+        "name": "Остружница",
+        "name:en": "Ostruznica",
+        "name:sr": "Остружница",
+        "name:sr-Latn": "Ostružnica",
+        "place": "town",
+        "population": "4218",
+        "wikidata": "Q599338",
+        "wikipedia": "sr:Остружница"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3191998,
+          44.7285552
+        ]
+      },
+      "id": "node/1461320774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1465008060",
+        "name": "Црна Трава",
+        "name:en": "Crna Trava",
+        "name:ru": "Црна Трава",
+        "name:sr": "Црна Трава",
+        "name:sr-Latn": "Crna Trava",
+        "place": "town",
+        "population": "563",
+        "wikidata": "Q523698",
+        "wikipedia": "sr:Црна Трава"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2989955,
+          42.8099389
+        ]
+      },
+      "id": "node/1465008060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531134087",
+        "addr:postcode": "11271",
+        "name": "Сурчин",
+        "name:en": "Surcin",
+        "name:sr": "Сурчин",
+        "name:sr-Latn": "Surčin",
+        "place": "town",
+        "population": "18205",
+        "wikidata": "Q3621686",
+        "wikipedia": "sr:Сурчин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2701685,
+          44.7910362
+        ]
+      },
+      "id": "node/1531134087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1547830258",
+        "name": "Суботица",
+        "name:ar": "سوبتيتسا",
+        "name:da": "Subotica",
+        "name:de": "Subotica",
+        "name:el": "Σουμπότιτσα",
+        "name:en": "Subotica",
+        "name:es": "Subotica",
+        "name:et": "Subotica",
+        "name:fr": "Subotica",
+        "name:hr": "Subotica",
+        "name:hu": "Szabadka",
+        "name:lt": "Subotica",
+        "name:ru": "Суботица",
+        "name:sl": "Subotica",
+        "name:sr": "Суботица",
+        "name:sr-Latn": "Subotica",
+        "name:uk": "Суботиця",
+        "old_name:de": "Maria-Theresiopel",
+        "place": "city",
+        "population": "97910",
+        "postal_code": "24000",
+        "wikidata": "Q170287",
+        "wikipedia": "sr:Суботица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6653273,
+          46.1002058
+        ]
+      },
+      "id": "node/1547830258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1547830265",
+        "name": "Темерин",
+        "name:en": "Temerin",
+        "name:hu": "Temerin",
+        "name:sr": "Темерин",
+        "name:sr-Latn": "Temerin",
+        "place": "town",
+        "population": "19661",
+        "wikidata": "Q579984",
+        "wikipedia": "sr:Темерин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8901507,
+          45.4096587
+        ]
+      },
+      "id": "node/1547830265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1582397428",
+        "name": "Петровац на Млави",
+        "name:ru": "Петровац-на-Млави",
+        "name:sr": "Петровац на Млави",
+        "name:sr-Latn": "Petrovac na Mlavi",
+        "old_name": "Петровац",
+        "place": "town",
+        "population": "7851",
+        "wikidata": "Q1544334",
+        "wikipedia": "sr:Петровац на Млави"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4170749,
+          44.378261
+        ]
+      },
+      "id": "node/1582397428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1582514089",
+        "is_in": "Serbia",
+        "name": "Кучево",
+        "name:en": "Kucevo",
+        "name:ru": "Кучево",
+        "name:sr": "Кучево",
+        "name:sr-Latn": "Kučevo",
+        "place": "town",
+        "population": "4506",
+        "wikidata": "Q1011263",
+        "wikipedia": "sr:Кучево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6693022,
+          44.4782165
+        ]
+      },
+      "id": "node/1582514089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1582764486",
+        "name": "Пожаревац",
+        "name:en": "Požarevac",
+        "name:he": "פוז'ארוואץ",
+        "name:hu": "Pozsarevác",
+        "name:lt": "Požarevacas",
+        "name:pl": "Pożarewac",
+        "name:ru": "Пожаревац",
+        "name:sr": "Пожаревац",
+        "name:sr-Latn": "Požarevac",
+        "name:zh": "波扎雷瓦茨",
+        "old_name:de": "Passarowitz",
+        "place": "city",
+        "population": "44183",
+        "population:date": "2011",
+        "wikidata": "Q199942",
+        "wikipedia": "sr:Пожаревац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1854,
+          44.6199926
+        ]
+      },
+      "id": "node/1582764486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599253813",
+        "name": "Владичин Хан",
+        "name:de": "Vladičin Han",
+        "name:en": "Vladicin Han",
+        "name:ru": "Владичин-Хан",
+        "name:sr": "Владичин Хан",
+        "name:sr-Latn": "Vladičin Han",
+        "place": "town",
+        "population": "8338",
+        "source": "GNS",
+        "wikidata": "Q856306",
+        "wikipedia": "sr:Владичин Хан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0586214,
+          42.7058676
+        ]
+      },
+      "id": "node/1599253813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599387453",
+        "name": "Алексинац",
+        "name:de": "Aleksinac",
+        "name:en": "Aleksinac",
+        "name:ru": "Алексинац",
+        "name:sr": "Алексинац",
+        "name:sr-Latn": "Aleksinac",
+        "place": "town",
+        "population": "17171",
+        "postal_code": "18220",
+        "source": "GNS",
+        "wikidata": "Q966804",
+        "wikipedia": "sr:Алексинац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.70884,
+          43.5405235
+        ]
+      },
+      "id": "node/1599387453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599387493",
+        "name": "Бујановац",
+        "name:de": "Bujanovac",
+        "name:en": "Bujanovac",
+        "name:ru": "Буяновац",
+        "name:sq": "Bujanoc",
+        "name:sr": "Бујановац",
+        "name:sr-Latn": "Bujanovac",
+        "place": "town",
+        "population": "12011",
+        "wikidata": "Q834989",
+        "wikipedia": "sr:Бујановац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7671276,
+          42.4598455
+        ]
+      },
+      "id": "node/1599387493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599387506",
+        "name": "Прешево",
+        "name:de": "Preševo",
+        "name:en": "Presevo",
+        "name:ru": "Прешево",
+        "name:sq": "Preshevë",
+        "name:sr": "Прешево",
+        "name:sr-Latn": "Preševo",
+        "place": "town",
+        "population": "13426",
+        "source": "GNS",
+        "wikidata": "Q145871",
+        "wikipedia": "sr:Прешево"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6490102,
+          42.3095217
+        ]
+      },
+      "id": "node/1599387506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599441250",
+        "name": "Параћин",
+        "name:en": "Paraćin",
+        "name:mk": "Параќин",
+        "name:ru": "Парачин",
+        "name:sr": "Параћин",
+        "name:sr-Latn": "Paraćin",
+        "place": "town",
+        "population": "25292",
+        "wikidata": "Q714643",
+        "wikipedia": "sr:Параћин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4099615,
+          43.8636301
+        ]
+      },
+      "id": "node/1599441250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599441292",
+        "name": "Ћићевац",
+        "name:en": "Cicevac",
+        "name:ru": "Чичевац",
+        "name:sr": "Ћићевац",
+        "name:sr-Latn": "Ćićevac",
+        "place": "town",
+        "population": "5094",
+        "wikidata": "Q336426",
+        "wikipedia": "sr:Ћићевац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.441026,
+          43.7202753
+        ]
+      },
+      "id": "node/1599441292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599441293",
+        "name": "Ћуприја",
+        "name:en": "Ćuprija",
+        "name:la": "Horreum Margi",
+        "name:ru": "Чуприя",
+        "name:sr": "Ћуприја",
+        "name:sr-Latn": "Ćuprija",
+        "place": "town",
+        "population": "20585",
+        "source": "GNS",
+        "wikidata": "Q336475",
+        "wikipedia": "sr:Ћуприја (град)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3712355,
+          43.9335612
+        ]
+      },
+      "id": "node/1599441293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599448252",
+        "name": "Смедеревска Паланка",
+        "name:en": "Smederevska Palanka",
+        "name:ru": "Смедеревска-Паланка",
+        "name:sr": "Смедеревска Паланка",
+        "name:sr-Latn": "Smederevska Palanka",
+        "place": "town",
+        "population": "25300",
+        "wikidata": "Q715716",
+        "wikipedia": "sr:Смедеревска Паланка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9601939,
+          44.3669765
+        ]
+      },
+      "id": "node/1599448252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1599448253",
+        "name": "Велика Плана",
+        "name:en": "Velika Plana",
+        "name:ru": "Велика-Плана",
+        "name:sr": "Велика Плана",
+        "name:sr-Latn": "Velika Plana",
+        "place": "town",
+        "population": "16210",
+        "source": "GNS",
+        "wikidata": "Q995055",
+        "wikipedia": "sr:Велика Плана"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.075786,
+          44.3324574
+        ]
+      },
+      "id": "node/1599448253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1600101444",
+        "addr:postcode": "17540",
+        "name": "Босилеград",
+        "name:bg": "Босилеград",
+        "name:el": "Μποσίλεγκραντ",
+        "name:en": "Bosilegrad",
+        "name:ru": "Босилеград",
+        "name:sr": "Босилеград",
+        "name:sr-Latn": "Bosilegrad",
+        "place": "town",
+        "population": "2530",
+        "source": "GNS",
+        "wikidata": "Q239124",
+        "wikipedia": "sr:Босилеград"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4732689,
+          42.4996561
+        ]
+      },
+      "id": "node/1600101444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607557596",
+        "name": "Ариље",
+        "name:de": "Arilje",
+        "name:en": "Arilje",
+        "name:sr": "Ариље",
+        "name:sr-Latn": "Arilje",
+        "place": "town",
+        "population": "6500",
+        "wikidata": "Q922060",
+        "wikipedia": "sr:Ариље"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1006509,
+          43.7506129
+        ]
+      },
+      "id": "node/1607557596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1614834392",
+        "is_in": "Serbia",
+        "name": "Жагубица",
+        "name:en": "Zagubica",
+        "name:ru": "Жагубица",
+        "name:sr": "Жагубица",
+        "name:sr-Latn": "Žagubica",
+        "place": "town",
+        "population": "2823",
+        "wikidata": "Q3504354",
+        "wikipedia": "sr:Жагубица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7858006,
+          44.1966908
+        ]
+      },
+      "id": "node/1614834392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1631764889",
+        "name": "Бела Паланка",
+        "name:en": "Bela Palanka",
+        "name:la": "Remesiana",
+        "name:nl": "Bela Palanka",
+        "name:ru": "Бела-Паланка",
+        "name:sr": "Бела Паланка",
+        "name:sr-Latn": "Bela Palanka",
+        "place": "town",
+        "population": "8626",
+        "wikidata": "Q792199",
+        "wikipedia": "sr:Бела Паланка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3119333,
+          43.2181536
+        ]
+      },
+      "id": "node/1631764889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1636186997",
+        "name": "Костолац",
+        "name:en": "Kostolac",
+        "name:la": "Viminacium",
+        "name:ru": "Костолац",
+        "name:sr": "Костолац",
+        "name:sr-Latn": "Kostolac",
+        "place": "town",
+        "population": "9313",
+        "wikidata": "Q1006552",
+        "wikipedia": "sr:Костолац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1710906,
+          44.7149424
+        ]
+      },
+      "id": "node/1636186997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1644763323",
+        "ele": "470",
+        "name": "Ресавица",
+        "name:en": "Resavica",
+        "name:sr": "Ресавица",
+        "name:sr-Latn": "Resavica",
+        "place": "town",
+        "population": "2035",
+        "population:date": "2011",
+        "postal_code": "35237",
+        "wikidata": "Q3101136",
+        "wikipedia": "sr:Ресавица"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5812259,
+          44.039525
+        ]
+      },
+      "id": "node/1644763323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1646895901",
+        "addr:postcode": "15318",
+        "name": "Мали Зворник",
+        "name:en": "Mali Zvornik",
+        "name:sr": "Мали Зворник",
+        "name:sr-Latn": "Mali Zvornik",
+        "place": "town",
+        "population": "4407",
+        "wikidata": "Q13100341",
+        "wikipedia": "sr:Мали Зворник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1069253,
+          44.3736328
+        ]
+      },
+      "id": "node/1646895901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1647188835",
+        "name": "Бачка Паланка",
+        "name:de": "Plankenburg",
+        "name:en": "Bačka Palanka",
+        "name:hu": "Palánka",
+        "name:ru": "Бачка-Паланка",
+        "name:sk": "Báčska Palanka",
+        "name:sr": "Бачка Паланка",
+        "name:sr-Latn": "Bačka Palanka",
+        "name:tr": "Küçük Hisar",
+        "place": "town",
+        "population": "28239",
+        "wikidata": "Q477170",
+        "wikipedia": "sr:Бачка Паланка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3966495,
+          45.2497012
+        ]
+      },
+      "id": "node/1647188835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655844203",
+        "name": "Лебане",
+        "name:en": "Lebane",
+        "name:ru": "Лебане",
+        "name:sr": "Лебане",
+        "name:sr-Latn": "Lebane",
+        "place": "town",
+        "population": "10004",
+        "wikidata": "Q856318",
+        "wikipedia": "sr:Лебане"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7369521,
+          42.9220453
+        ]
+      },
+      "id": "node/1655844203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1668987214",
+        "name": "Бајина Башта",
+        "name:de": "Bajina Bašta",
+        "name:en": "Bajina Basta",
+        "name:ru": "Баина-Башта",
+        "name:sr": "Бајина Башта",
+        "name:sr-Latn": "Bajina Bašta",
+        "place": "town",
+        "population": "9148",
+        "postal_code": "31250",
+        "wikidata": "Q804149",
+        "wikipedia": "sr:Бајина Башта"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5660149,
+          43.9712226
+        ]
+      },
+      "id": "node/1668987214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719514119",
+        "name": "Сврљиг",
+        "name:de": "Svrljig",
+        "name:en": "Svrljig",
+        "name:ru": "Сврлиг",
+        "name:sr": "Сврљиг",
+        "name:sr-Latn": "Svrljig",
+        "place": "town",
+        "population": "7553",
+        "wikidata": "Q1027082",
+        "wikipedia": "sr:Сврљиг"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1230473,
+          43.4140419
+        ]
+      },
+      "id": "node/1719514119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758554920",
+        "addr:postcode": "17525",
+        "name": "Трговиште",
+        "name:en": "Trgoviste",
+        "name:ru": "Трговиште",
+        "name:sr": "Трговиште",
+        "name:sr-Latn": "Trgovište",
+        "place": "town",
+        "population": "1866",
+        "source": "GNS",
+        "wikidata": "Q20437914",
+        "wikipedia": "sr:Трговиште (Трговиште)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0825,
+          42.3641667
+        ]
+      },
+      "id": "node/1758554920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1781688051",
+        "name": "Сремски Карловци",
+        "name:ba": "Сремски-Карловци",
+        "name:be": "Срэмскі-Карлаўцы",
+        "name:bs": "Sremski Karlovci",
+        "name:ca": "Sremski Karlovci",
+        "name:cs": "Sremski Karlovci",
+        "name:da": "Sremski Karlovci",
+        "name:de": "Sremski Karlovci",
+        "name:el": "Σρέμσκι Κάρλοβτσι",
+        "name:en": "Sremski Karlovci",
+        "name:eo": "Sremski Karlovci",
+        "name:es": "Sremski Karlovci",
+        "name:fa": "سرمسکی کارلووتسی",
+        "name:fi": "Sremski Karlovci",
+        "name:fr": "Sremski Karlovci",
+        "name:he": "סרמסקי קרלובצי",
+        "name:hr": "Srijemski Karlovci",
+        "name:hu": "Karlóca",
+        "name:it": "Sremski Karlovci",
+        "name:ja": "スレムスキ・カルロヴツィ",
+        "name:ko": "스렘스키카를로브치",
+        "name:la": "Carolovicia",
+        "name:ms": "Sremski Karlovci",
+        "name:nl": "Sremski Karlovci",
+        "name:os": "Сремски-Карловци",
+        "name:pl": "Sremski Karlovci",
+        "name:ro": "Carloviț",
+        "name:ru": "Сремски-Карловичи",
+        "name:sl": "Sremski Karlovci",
+        "name:sr": "Сремски Карловци",
+        "name:sr-Latn": "Sremski Karlovci",
+        "name:sv": "Sremski Karlovci",
+        "name:tr": "Karlofça",
+        "name:uk": "Сремські Карловці",
+        "name:zh": "斯雷姆斯基卡尔洛夫奇",
+        "old_name:de": "Syrmisch-Karlowitz;Karlowitz",
+        "place": "town",
+        "population": "8750",
+        "wikidata": "Q271922",
+        "wikipedia": "sr:Сремски Карловци"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9338336,
+          45.2030463
+        ]
+      },
+      "id": "node/1781688051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1806479680",
+        "name": "Гаџин Хан",
+        "name:en": "Gadzin Han",
+        "name:sr": "Гаџин Хан",
+        "name:sr-Latn": "Gadžin Han",
+        "place": "town",
+        "wikidata": "Q18811684",
+        "wikipedia": "sr:Гаџин Хан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0314563,
+          43.2231774
+        ]
+      },
+      "id": "node/1806479680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1854673213",
+        "addr:postcode": "12220",
+        "name": "Велико Градиште",
+        "name:en": "Veliko Gradiste",
+        "name:ru": "Велико-Градиште",
+        "name:sr": "Велико Градиште",
+        "name:sr-Latn": "Veliko Gradište",
+        "name:zh": "大格拉迪什泰",
+        "place": "town",
+        "population": "5658",
+        "wikidata": "Q584670",
+        "wikipedia": "sr:Велико Градиште"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5161946,
+          44.7629166
+        ]
+      },
+      "id": "node/1854673213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1914550945",
+        "addr:postcode": "15314",
+        "name": "Крупањ",
+        "name:en": "Krupanj",
+        "name:ru": "Крупань",
+        "name:sr": "Крупањ",
+        "name:sr-Latn": "Krupanj",
+        "place": "town",
+        "population": "4912",
+        "source": "GNS",
+        "wikidata": "Q979248",
+        "wikipedia": "sr:Крупањ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3628418,
+          44.365632
+        ]
+      },
+      "id": "node/1914550945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1918674245",
+        "name": "Сокобања",
+        "name:bg": "Соко баня",
+        "name:en": "Sokobanja",
+        "name:ru": "Соко-Баня",
+        "name:sr": "Сокобања",
+        "name:sr-Latn": "Sokobanja",
+        "place": "town",
+        "population": "7982",
+        "wikidata": "Q772805",
+        "wikipedia": "sr:Сокобања"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8730724,
+          43.6440513
+        ]
+      },
+      "id": "node/1918674245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1931265009",
+        "name": "Власотинце",
+        "name:ar": "فلاسوتينسي",
+        "name:en": "Vlasotince",
+        "name:ru": "Власотинце",
+        "name:sr": "Власотинце",
+        "name:sr-Latn": "Vlasotince",
+        "place": "town",
+        "population": "12127",
+        "wikidata": "Q1649631",
+        "wikipedia": "sr:Власотинце"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1281077,
+          42.9652346
+        ]
+      },
+      "id": "node/1931265009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107020830",
+        "name": "Пиносава",
+        "name:en": "Pinosava",
+        "name:sr": "Пиносава",
+        "name:sr-Latn": "Pinosava",
+        "place": "town",
+        "population": "3151",
+        "wikidata": "Q2986304",
+        "wikipedia": "sr:Пиносава"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48305,
+          44.695433
+        ]
+      },
+      "id": "node/2107020830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2147671483",
+        "addr:postcode": "18330",
+        "name": "Бабушница",
+        "name:en": "Babusnica",
+        "name:ru": "Бабушница",
+        "name:sr": "Бабушница",
+        "name:sr-Latn": "Babušnica",
+        "place": "town",
+        "population": "4575",
+        "source": "GNS",
+        "wikidata": "Q788026",
+        "wikipedia": "sr:Бабушница"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.411508,
+          43.067962
+        ]
+      },
+      "id": "node/2147671483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192314762",
+        "name": "Добановци",
+        "name:en": "Dobanovci",
+        "name:sr": "Добановци",
+        "name:sr-Latn": "Dobanovci",
+        "place": "town",
+        "population": "8503",
+        "wikidata": "Q2037460",
+        "wikipedia": "sr:Добановци"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2228552,
+          44.8275822
+        ]
+      },
+      "id": "node/2192314762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2218758841",
+        "int_name": "Medvedja",
+        "name": "Медвеђа",
+        "name:en": "Medvedja",
+        "name:mk": "Медвеѓа",
+        "name:ru": "Медведжя",
+        "name:sq": "Medvegja",
+        "name:sr": "Медвеђа",
+        "name:sr-Latn": "Medveđa",
+        "place": "town",
+        "population": "2810",
+        "source": "GNS",
+        "wikidata": "Q846082",
+        "wikipedia": "sr:Медвеђа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5845267,
+          42.842162
+        ]
+      },
+      "id": "node/2218758841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2235551812",
+        "name": "Вучје",
+        "name:en": "Vucje",
+        "name:sr": "Вучје",
+        "name:sr-Latn": "Vučje",
+        "place": "town",
+        "population": "2865",
+        "source": "GNS",
+        "wikidata": "Q3049175",
+        "wikipedia": "sr:Вучје"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9111809,
+          42.8649674
+        ]
+      },
+      "id": "node/2235551812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2251131729",
+        "int_name": "Zitoradja",
+        "name": "Житорађа",
+        "name:en": "Zitoradja",
+        "name:mk": "Житораѓа",
+        "name:ru": "Житораджя",
+        "name:sr": "Житорађа",
+        "name:sr-Latn": "Žitorađa",
+        "place": "town",
+        "population": "3543",
+        "source": "GNS",
+        "wikidata": "Q2292617",
+        "wikipedia": "sr:Житорађа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7111439,
+          43.1889653
+        ]
+      },
+      "id": "node/2251131729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2713205900",
+        "name": "Врањска Бања",
+        "name:en": "Vranjska Banja",
+        "name:ru": "Вранска-Баня",
+        "name:sr": "Врањска Бања",
+        "name:sr-Latn": "Vranjska Banja",
+        "place": "town",
+        "population": "5347",
+        "postal_code": "17542",
+        "wikidata": "Q2590658",
+        "wikipedia": "sr:Врањска Бања"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0016973,
+          42.5469074
+        ]
+      },
+      "id": "node/2713205900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2743400105",
+        "name": "Деспотовац",
+        "name:en": "Despotovac",
+        "name:ru": "Деспотовац",
+        "name:sr": "Деспотовац",
+        "name:sr-Latn": "Despotovac",
+        "place": "town",
+        "postal_code": "35213",
+        "wikidata": "Q1006545",
+        "wikipedia": "sr:Деспотовац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4366052,
+          44.0954702
+        ]
+      },
+      "id": "node/2743400105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874458661",
+        "name": "Мајданпек",
+        "name:en": "Majdanpek",
+        "name:ru": "Майданпек",
+        "name:sr": "Мајданпек",
+        "name:sr-Latn": "Majdanpek",
+        "place": "town",
+        "population": "7699",
+        "website": "http://www.majdanpek.rs/",
+        "wikidata": "Q994331",
+        "wikipedia": "sr:Мајданпек"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9359228,
+          44.4224552
+        ]
+      },
+      "id": "node/2874458661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3720265371",
+        "name": "Крушевац",
+        "name:ar": "كروشيفاتس",
+        "name:el": "Κρούσεβατς",
+        "name:en": "Kruševac",
+        "name:es": "Kruševac",
+        "name:et": "Kruševac",
+        "name:fr": "Kruševac",
+        "name:ru": "Крушевац",
+        "name:sr": "Крушевац",
+        "name:sr-Latn": "Kruševac",
+        "old_name:de": "Kruschewatz",
+        "place": "city",
+        "population": "58745",
+        "wikidata": "Q201442",
+        "wikipedia": "sr:Крушевац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3264811,
+          43.58264
+        ]
+      },
+      "id": "node/3720265371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3722369896",
+        "name": "Врбас",
+        "name:en": "Vrbas",
+        "name:hu": "Verbász",
+        "name:ru": "Врбас",
+        "name:rue": "Вербас",
+        "name:sr": "Врбас",
+        "name:sr-Latn": "Vrbas",
+        "old_name:de": "Werbass",
+        "place": "town",
+        "population": "24112",
+        "postal_code": "21460;21463;21464",
+        "wikidata": "Q511216",
+        "wikipedia": "sr:Врбас (град)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6470089,
+          45.568028
+        ]
+      },
+      "id": "node/3722369896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008189663",
+        "name": "Свилајнац",
+        "name:de": "Svilajnac",
+        "name:en": "Svilajnac",
+        "name:ru": "Свилайнац",
+        "name:sr": "Свилајнац",
+        "name:sr-Latn": "Svilajnac",
+        "place": "town",
+        "population": "9131",
+        "wikidata": "Q670842",
+        "wikipedia": "sr:Свилајнац"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1947272,
+          44.2333085
+        ]
+      },
+      "id": "node/4008189663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260586058",
+        "name": "Боговина",
+        "name:sr": "Боговина",
+        "name:sr-Latn": "Bogovina",
+        "place": "town",
+        "population": "1151",
+        "wikidata": "Q2908732",
+        "wikipedia": "sr:Боговина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9458063,
+          43.9004053
+        ]
+      },
+      "id": "node/4260586058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5433205300",
+        "name": "Рибница",
+        "name:en": "Ribnica",
+        "name:sr": "Рибница",
+        "name:sr-Latn": "Ribnica",
+        "place": "town",
+        "population": "1624",
+        "wikidata": "Q848900",
+        "wikipedia": "sr:Рибница (Краљево)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6986927,
+          43.6913511
+        ]
+      },
+      "id": "node/5433205300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302208836",
+        "name": "Александровац",
+        "name:en": "Aleksandrovac",
+        "name:sr": "Александровац",
+        "name:sr-Latn": "Aleksandrovac",
+        "place": "town",
+        "population": "6228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0465876,
+          43.4586105
+        ]
+      },
+      "id": "node/6302208836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7162443826",
+        "ele": "186",
+        "name": "Жабари",
+        "name:en": "Zabari",
+        "name:sr-Latn": "Žabari",
+        "place": "town",
+        "population": "1163",
+        "wikidata": "Q3436794",
+        "wikipedia": "sr:Жабари"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2147074,
+          44.3566833
+        ]
+      },
+      "id": "node/7162443826"
+    }
+  ]
+}
